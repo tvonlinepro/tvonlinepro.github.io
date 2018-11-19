@@ -1,230 +1,298 @@
-#EXTINF:-1 tvg-id="13184" tvg-name="Canal Brasil" tvg-logo="" group-title="",Canal Brasil
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13184.ts
+#EXTM3U
 
-#EXTINF:-1 tvg-id="13183" tvg-name="E!" tvg-logo="" group-title="",E!
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13183.ts
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png" group-title="CANAIS ABERTOS",GLOBO NORDESTE HD
+https://l4.azureedge.net/hls1/bobonordeste.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13182" tvg-name="E! MAXX 2" tvg-logo="" group-title="ESPORTES",E! MAXX 2
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13182.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo_rj.png" group-title="CANAIS ABERTOS",GLOBO RJ HD
+https://l4.azureedge.net/hls1/boborj.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13181" tvg-name="Eimax 1" tvg-logo="" group-title="ESPORTES",Eimax 1
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13181.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo_sp.png" group-title="CANAIS ABERTOS",GLOBO SP HD
+https://l4.azureedge.net/hls1/bobosp.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13180" tvg-name="ESPN Brasil" tvg-logo="" group-title="ESPORTES",ESPN Brasil
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13180.ts
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sbt.png" group-title="CANAIS ABERTOS",SBT HD
+https://l4.azureedge.net/hls1/sbt.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13179" tvg-name="ESPN HD" tvg-logo="" group-title="ESPORTES",ESPN HD
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13179.ts
+#EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record.png" group-title="CANAIS ABERTOS",RECORD HD
+https://l4.azureedge.net/hls1/recordsp.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13178" tvg-name="ESPN plus" tvg-logo="" group-title="ESPORTESS",ESPN plus
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13178.ts
 
-#EXTINF:-1 tvg-id="13177" tvg-name="FOX Sports 1" tvg-logo="" group-title="ESPORTES",FOX Sports 1
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13177.ts
 
-#EXTINF:-1 tvg-id="13176" tvg-name="Fox Sports 2" tvg-logo="" group-title="ESPORTES",Fox Sports 2
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13176.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/animal_planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
+https://l4.azureedge.net/hls1/animalplanet.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13175" tvg-name="GLOBAL TV" tvg-logo="" group-title="",GLOBAL TV
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13175.ts
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_investigation.png" group-title="DOCUMENTÁRIOS",ID HD
+https://l4.azureedge.net/hls1/investigacaodiscovery.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13174" tvg-name="Globo News" tvg-logo="" group-title="",Globo News
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13174.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_channel.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+https://l4.azureedge.net/hls1/discovery.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13173" tvg-name="Globo Premium" tvg-logo="" group-title="",Globo Premium
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13173.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_civilization.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION HD
+https://l4.azureedge.net/hls1/discoverycivilization.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="" group-title="INFANTIL",Gloob
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13172.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_science.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+https://l4.azureedge.net/hls1/discoverysience.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13171" tvg-name="GNT" tvg-logo="" group-title="",GNT
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13171.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_theater.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
+https://l4.azureedge.net/hls1/discoverytheater.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13170" tvg-name="HBO Signature" tvg-logo="" group-title="",HBO Signature
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13170.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_turbo.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
+https://l4.azureedge.net/hls1/discoveryturbo.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13169" tvg-name="Investiga" tvg-logo="" group-title="",Investiga
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13169.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_home_health.png" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
+https://l4.azureedge.net/hls1/discoveryhomeihealth.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13168" tvg-name="Max" tvg-logo="" group-title="",Max
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13168.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_world.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
+https://l4.azureedge.net/hls1/discoveryworld.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13167" tvg-name="Max Prime" tvg-logo="" group-title="",Max Prime
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13167.ts
+#EXTINF:-1 tvg-id="History" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/history.png" group-title="DOCUMENTÁRIOS",HISTORY HD
+https://l4.azureedge.net/hls1/history.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13166" tvg-name="MegaPix" tvg-logo="" group-title="",MegaPix
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13166.ts
+#EXTINF:-1 tvg-id="H2" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/h2.png" group-title="DOCUMENTÁRIOS",H2 HD
+https://l4.azureedge.net/hls1/history2.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="" group-title="INFANTIL",Nick
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13165.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo.png" group-title="DOCUMENTÁRIOS",NAT GEO HD
+https://l4.azureedge.net/hls1/natgeo.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="" group-title="INFANTIL",Nick Jr
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13164.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo_wild.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HD
+https://l4.azureedge.net/hls1/natgeowild.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13163" tvg-name="Paramount" tvg-logo="" group-title="",Paramount
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13163.ts
 
-#EXTINF:-1 tvg-id="13162" tvg-name="Premiere Clubes" tvg-logo="" group-title="",Premiere Clubes
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13162.ts
 
-#EXTINF:-1 tvg-id="13161" tvg-name="REDE RECORD" tvg-logo="" group-title="",REDE RECORD
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13161.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/bandsports.png" group-title="ESPORTES",BAND SPORTS HD
+https://l4.azureedge.net/hls1/bandsports.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13160" tvg-name="REDE TV" tvg-logo="" group-title="",REDE TV
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13160.ts
+#EXTINF:-1 tvg-id="Combate" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/combate.png" group-title="ESPORTES",COMBATE HD
+https://l4.azureedge.net/hls1/combate.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13159" tvg-name="Sport TV" tvg-logo="" group-title="ESPORTES",Sport TV
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13159.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn.png" group-title="ESPORTES",ESPN HD
+https://l4.azureedge.net/hls1/espn.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13158" tvg-name="Sport TV2" tvg-logo="" group-title="ESPORTES",Sport TV2
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13158.ts
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_plus.png" group-title="ESPORTES",ESPN 2 HD
+https://l4.azureedge.net/hls1/espn2.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13157" tvg-name="Sport TV3" tvg-logo="" group-title="ESPORTES",Sport TV3
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13157.ts
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_brasil.png" group-title="ESPORTES",ESPN BRASIL HD
+https://l4.azureedge.net/hls1/espnbrasil.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13156" tvg-name="Studio Universal" tvg-logo="" group-title="",Studio Universal
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13156.ts
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports.png" group-title="ESPORTES",FOX SPORTS HD
+https://l4.azureedge.net/hls1/foxsports1.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13155" tvg-name="Tru TV" tvg-logo="" group-title="",Tru TV
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13155.ts
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 HD
+https://l4.azureedge.net/hls1/foxsports2.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13154" tvg-name="TV BRASIL CENTRAL" tvg-logo="" group-title="",TV BRASIL CENTRAL
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13154.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE CLUBE HD
+https://l4.azureedge.net/hls1/premiereclubes.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13153" tvg-name="TV Globo" tvg-logo="" group-title="",TV Globo
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13153.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 2 HD
+https://l4.azureedge.net/hls1/premiere2.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13152" tvg-name="TV Globo Premium" tvg-logo="" group-title="",TV Globo Premium
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13152.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 3 HD
+https://l4.azureedge.net/hls1/premiere3.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13151" tvg-name="Universal Brasil" tvg-logo="" group-title="",Universal Brasil
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13151.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 4 HD
+https://l4.azureedge.net/hls1/premiere4.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13150" tvg-name="A&E" tvg-logo="" group-title="",A&E
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13150.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 5 HD
+https://l4.azureedge.net/hls1/premiere5.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13149" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="",ANIMAL PLANET
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13149.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 6 HD
+https://l4.azureedge.net/hls1/premiere6.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13148" tvg-name="AXN" tvg-logo="" group-title="",AXN
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13148.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 7 HD
+https://l4.azureedge.net/hls1/premiere7.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13147" tvg-name="BAND NEWS" tvg-logo="" group-title="",BAND NEWS
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13147.ts
+#EXTINF:-1 tvg-id="Premiere 8" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 8 HD
+https://l4.azureedge.net/hls1/premiere8.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13146" tvg-name="BAND SPORTS" tvg-logo="" group-title="ESPORTES",BAND SPORTS
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13146.ts
+#EXTINF:-1 tvg-id="Premiere 9" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 9 HD
+https://l4.azureedge.net/hls1/premiere9.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="" group-title="INFANTIL",Boomerang
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13145.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",SPORTV HD
+https://l4.azureedge.net/hls1/sportv1.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13144" tvg-name="Canal Sony" tvg-logo="" group-title="",Canal Sony
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13144.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",SPORTV 2 HD
+https://l4.azureedge.net/hls1/sportv2.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="INFANTIL",Cartoon Network
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13143.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",SPORTV 3 HD
+https://l4.azureedge.net/hls1/sportv3.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13142" tvg-name="CINEMAX" tvg-logo="" group-title="",CINEMAX
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13142.ts
 
-#EXTINF:-1 tvg-id="13141" tvg-name="Combate" tvg-logo="" group-title="ESPORTES",Combate
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13141.ts
 
-#EXTINF:-1 tvg-id="13140" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="",COMEDY CENTRAL
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13140.ts
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png" group-title="FILMES & SÉRIES",A&E HD
+https://l4.azureedge.net/hls1/aie.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13139" tvg-name="DISCOVERY" tvg-logo="" group-title="",DISCOVERY
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13139.ts
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/amc.png" group-title="FILMES & SÉRIES",AMC HD
+https://l4.azureedge.net/hls1/amc.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13138" tvg-name="Discovery Civilization" tvg-logo="" group-title="",Discovery Civilization
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13138.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/axn.png" group-title="FILMES & SÉRIES",AXN HD
+https://l4.azureedge.net/hls1/axn.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13137" tvg-name="Discovery Home Health" tvg-logo="" group-title="",Discovery Home Health
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13137.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cinemax.png" group-title="FILMES & SÉRIES",CINEMAX HD
+https://l4.azureedge.net/hls1/cinemax.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13136" tvg-name="Discovery Turbo" tvg-logo="" group-title="",Discovery Turbo
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13136.ts
+#EXTINF:-1 tvg-id="Fox" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox.png" group-title="FILMES & SÉRIES",FOX HD
+https://l4.azureedge.net/hls1/fox.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney" tvg-logo="" group-title="INFANTIL",Disney
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13135.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_life.png" group-title="FILMES & SÉRIES",FOX LIFE HD
+https://l4.azureedge.net/hls1/foxlife.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr" tvg-logo="" group-title="INFANTIL",Disney Jr
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13134.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png" group-title="FILMES & SÉRIES",FOX PREMIUM 1 HD
+https://l4.azureedge.net/hls1/foxpremium1.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="" group-title="INFANTIL",Disney XD
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13133.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png" group-title="FILMES & SÉRIES",FOX PREMIUM 2 HD
+https://l4.azureedge.net/hls1/foxpremium2.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13132" tvg-name="FOX" tvg-logo="" group-title="",FOX
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13132.ts
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fx.png" group-title="FILMES & SÉRIES",FX HD
+https://l4.azureedge.net/hls1/fx.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13131" tvg-name="Fox Life" tvg-logo="" group-title="",Fox Life
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13131.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo.png" group-title="FILMES & SÉRIES",HBO HD
+https://l4.azureedge.net/hls1/hbo.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13130" tvg-name="H2" tvg-logo="" group-title="",H2
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13130.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo2.png" group-title="FILMES & SÉRIES",HBO 2 HD
+https://l4.azureedge.net/hls1/hbo2.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13129" tvg-name="HBO" tvg-logo="" group-title="",HBO
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13129.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_family.png" group-title="FILMES & SÉRIES",HBO FAMILY HD
+https://l4.azureedge.net/hls1/hbofamily.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13128" tvg-name="HBO 2" tvg-logo="" group-title="",HBO 2
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13128.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_plus.png" group-title="FILMES & SÉRIES",HBO PLUS HD
+https://l4.azureedge.net/hls1/hboplus.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13127" tvg-name="HBO Family" tvg-logo="" group-title="",HBO Family
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13127.ts
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_signature.png" group-title="FILMES & SÉRIES",HBO SIGNATURE HD
+https://l4.azureedge.net/hls1/hbosignature.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13126" tvg-name="HBO Plus" tvg-logo="" group-title="",HBO Plus
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13126.ts
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max.png" group-title="FILMES & SÉRIES",MAX HD
+https://l4.azureedge.net/hls1/max.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13125" tvg-name="History" tvg-logo="" group-title="",History
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13125.ts
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max_prime.png" group-title="FILMES & SÉRIES",MAX PRIME HD
+https://l4.azureedge.net/hls1/maxprime.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13124" tvg-name="National Geographic" tvg-logo="" group-title="",National Geographic
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13124.ts
+#EXTINF:-1 tvg-id="MAX UP" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max_up.png" group-title="FILMES & SÉRIES",MAX UP HD
+https://l4.azureedge.net/hls1/maxup.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13123" tvg-name="Space Brasil" tvg-logo="" group-title="",Space Brasil
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13123.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/megapix.png" group-title="FILMES & SÉRIES",MEGAPIX HD
+https://l4.azureedge.net/hls1/megapix.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13122" tvg-name="Syfy" tvg-logo="" group-title="",Syfy
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13122.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/paramount.png" group-title="FILMES & SÉRIES",PARAMOUNT HD
+https://l4.azureedge.net/hls1/paramount.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13121" tvg-name="TBS Brasil" tvg-logo="" group-title="",TBS Brasil
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13121.ts
+#EXTINF:-1 tvg-id="Sony" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sony.png" group-title="FILMES & SÉRIES",SONY HD
+https://l4.azureedge.net/hls1/sony.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13120" tvg-name="TCM" tvg-logo="" group-title="",TCM
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13120.ts
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/space.png" group-title="FILMES & SÉRIES",SPACE HD
+https://l4.azureedge.net/hls1/space.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13119" tvg-name="Telecine Action" tvg-logo="" group-title="",Telecine Action
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13119.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/studio_universal.png" group-title="FILMES & SÉRIES",STUDIO UNIVERSAL HD
+https://l4.azureedge.net/hls1/studiouniversal.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13118" tvg-name="Telecine Cult" tvg-logo="" group-title="",Telecine Cult
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13118.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/syfy.png" group-title="FILMES & SÉRIES",SYFY HD
+https://l4.azureedge.net/hls1/syfy.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13117" tvg-name="Telecine Fun" tvg-logo="" group-title="",Telecine Fun
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13117.ts
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tcm.png" group-title="FILMES & SÉRIES",TCM HD
+https://l4.azureedge.net/hls1/tcm.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13116" tvg-name="Telecine Pipoca" tvg-logo="" group-title="",Telecine Pipoca
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13116.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_action.png" group-title="FILMES & SÉRIES",TELECINE ACTION HD
+https://l4.azureedge.net/hls1/telecineaction.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13115" tvg-name="Telecine Premium" tvg-logo="" group-title="",Telecine Premium
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13115.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_cult.png" group-title="FILMES & SÉRIES",TELECINE CULT HD
+https://l4.azureedge.net/hls1/telecinecult.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13114" tvg-name="Telecine Touch" tvg-logo="" group-title="",Telecine Touch
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13114.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_fun.png" group-title="FILMES & SÉRIES",TELECINE FUN HD
+https://l4.azureedge.net/hls1/telecinefun.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13113" tvg-name="TLC" tvg-logo="" group-title="",TLC
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13113.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_pipoca.png" group-title="FILMES & SÉRIES",TELECINE PIPOCA HD
+https://l4.azureedge.net/hls1/telecinepipoca.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13112" tvg-name="TNT" tvg-logo="" group-title="",TNT
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13112.ts
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_premium.png" group-title="FILMES & SÉRIES",TELECINE PREMIUM HD
+https://l4.azureedge.net/hls1/telecinepremium.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13111" tvg-name="TNT Series" tvg-logo="" group-title="",TNT Series
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13111.ts
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_touch.png" group-title="FILMES & SÉRIES",TELECINE TOUCH HD
+https://l4.azureedge.net/hls1/telecinetouch.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="" group-title="INFANTIL",Tooncast
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13110.ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt.png" group-title="FILMES & SÉRIES",TNT HD
+https://l4.azureedge.net/hls1/tnt.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13109" tvg-name="Universal" tvg-logo="" group-title="",Universal
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13109.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt_series.png" group-title="FILMES & SÉRIES",TNT SÉRIES HD
+https://l4.azureedge.net/hls1/tntseries.m3u8|Referer=http://www.eletricmice.com/
 
-#EXTINF:-1 tvg-id="13108" tvg-name="WARNER" tvg-logo="" group-title="",WARNER
-http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/13108.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/universal_channel.png" group-title="FILMES & SÉRIES",UNIVERSAL CHANNEL HD
+https://l4.azureedge.net/hls1/universal.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/warner_channel.png" group-title="FILMES & SÉRIES",WARNER HD
+https://l4.azureedge.net/hls1/warner.m3u8|Referer=http://www.eletricmice.com/
+
+
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/boomerang.png" group-title="INFANTIL",BOOMERANG HD
+https://l4.azureedge.net/hls1/boomerang.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK HD
+https://l4.azureedge.net/hls1/cartoon.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_kids.png" group-title="INFANTIL",DISCOVERY KIDS HD
+https://l4.azureedge.net/hls1/discoverykids.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_channel.png" group-title="INFANTIL",DISNEY CHANNEL HD
+https://l4.azureedge.net/hls1/disney.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_junior.png" group-title="INFANTIL",DISNEY JUNIOR HD
+https://l4.azureedge.net/hls1/disneyjunior.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_xd.png" group-title="INFANTIL",DISNEY XD HD
+https://l4.azureedge.net/hls1/disneyxd.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gloob.png" group-title="INFANTIL",GLOOB HD
+https://l4.azureedge.net/hls1/gloob.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Nick" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick.png" group-title="INFANTIL",NICKELODEON HD
+https://l4.azureedge.net/hls1/nick.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick_jr.png" group-title="INFANTIL",NICK JR HD
+https://l4.azureedge.net/hls1/nickjr.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png" group-title="INFANTIL",TOONCAST HD
+https://l4.azureedge.net/hls1/tooncast.m3u8|Referer=http://www.eletricmice.com/
+
+
+
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/arte1.png" group-title="MÚSICAS & VARIEDADES",ARTE 1 HD
+https://l4.azureedge.net/hls1/arte1.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="BIS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/bis.png" group-title="MÚSICAS & VARIEDADES",BIS HD
+https://l4.azureedge.net/hls1/bis.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Off" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/off.png" group-title="MÚSICAS & VARIEDADES",CANAL OFF HD
+https://l4.azureedge.net/hls1/off.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/comedy_central.png" group-title="MÚSICAS & VARIEDADES",COMEDY CENTRAL HD
+https://l4.azureedge.net/hls1/comedycentral.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Curta!" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/curta!.jpg" group-title="MÚSICAS & VARIEDADES",CURTA! HD
+https://l4.azureedge.net/hls1/curta.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fishtv.png" group-title="MÚSICAS & VARIEDADES",FISH TV SD
+https://l4.azureedge.net/hls1/fishtv.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="GNT" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gnt.png" group-title="MÚSICAS & VARIEDADES",GNT HD
+https://l4.azureedge.net/hls1/gnt.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/lifetime.png" group-title="MÚSICAS & VARIEDADES",LIFETIME HD
+https://l4.azureedge.net/hls1/lifetime.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/mais_globosat.png" group-title="MÚSICAS & VARIEDADES",MAIS GLOBOSAT HD
+https://l4.azureedge.net/hls1/maisbobosat.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/mtv.png" group-title="MÚSICAS & VARIEDADES",MTV HD
+https://l4.azureedge.net/hls1/mtv.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/multishow.png" group-title="MÚSICAS & VARIEDADES",MULTISHOW HD
+https://l4.azureedge.net/hls1/multishow.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tlc.png" group-title="MÚSICAS & VARIEDADES",TLC HD
+https://l4.azureedge.net/hls1/tlc.m3u8|Referer=http://www.eletricmice.com/
+
+
+
+#EXTINF:-1 tvg-id="BandNews" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png" group-title="NOTÍCIAS",BAND NEWS HD
+https://l4.azureedge.net/hls1/bandnews.m3u8|Referer=http://www.eletricmice.com/
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globonews.png" group-title="NOTÍCIAS",GLOBO NEWS SD
+https://l4.azureedge.net/hls1/globonews.m3u8|Referer=http://www.eletricmice.com/
