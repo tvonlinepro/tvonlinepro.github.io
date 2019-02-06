@@ -1,575 +1,1003 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA" tvg-logo="" group-title="24H",A PANTERA COR DE ROSA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/45|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo=""  group-title="FILMES & SERIES",A&E
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/274|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo=""  group-title="FILMES & SERIES",AMC
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/273|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/272|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 FHD (ESP)" tvg-logo="" group-title="24H",ANTENA 3 FHD (ESP)
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/293|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="APARECIDA" tvg-logo="" group-title="RELIGIOSOS",APARECIDA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/271|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="APENAS UM SHOW" tvg-logo="" group-title="24H",APENAS UM SHOW
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/44|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ARMAÇÃO ILIMITADA" tvg-logo="" group-title="24H",ARMAÇÃO ILIMITADA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/43|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="" group-title="VARIEDADES",ARTE 1
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/275|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES FHD (ESP)" tvg-logo="" group-title="24H",ATRESERIES FHD (ESP)
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/292|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo=""  group-title="FILMES & SERIES",AXN
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/270|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="INFANTIL",BABY TV
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/269|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BACKYARDIGANS" tvg-logo="" group-title="24H",BACKYARDIGANS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/42|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="" group-title="NOTICIAS",BAND NEWS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/264|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP" tvg-logo="" group-title="TV ABERTA",BAND SP
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/266|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD" tvg-logo="" group-title="TV ABERTA",BAND SP FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/268|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP SD" tvg-logo="" group-title="TV ABERTA",BAND SP SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/267|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP*" tvg-logo="" group-title="TV ABERTA",BAND SP*
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/265|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="" group-title="ESPORTES",BAND SPORTS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/263|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN E ROBIN" tvg-logo="" group-title="24H",BATMAN E ROBIN
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/41|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BBB 19" tvg-logo="" group-title="BBB 19",BBB 19
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/61|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BBB 19 HD" tvg-logo="" group-title="BBB 19",BBB 19 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/261|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="" group-title="VARIEDADES",BIS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/60|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="" group-title="INFANTIL",BOOMERANG
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/262|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="" group-title="VARIEDADES",CANAL BRASIL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/260|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="" group-title="TV ABERTA",CANAL RURAL
-https://67149o.ha.azioncdn.net/hlshigh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo=""  group-title="FILMES & SERIES",CANAL SONY
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/258|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO PLANETA" tvg-logo="" group-title="24H",CAPITÃO PLANETA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/40|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/257|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO" tvg-logo="" group-title="24H",CAVERNA DO DRAGÃO
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/39|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CHANGEMAN" tvg-logo="" group-title="24H",CHANGEMAN
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/38|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CHARLIE BROWN E SNOOPY" tvg-logo="" group-title="24H",CHARLIE BROWN E SNOOPY
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/37|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES OFICIAL" tvg-logo="" group-title="24H",CHAVES OFICIAL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/34|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo=""  group-title="FILMES & SERIES",CINEMAX
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/256|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CLIPES ROCK N ROLL" tvg-logo="" group-title="24H",CLIPES ROCK N ROLL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/5|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL" tvg-logo="" group-title="NOTICIAS",CNN ESPANHOL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/254|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="NOTICIAS",CNN INTERNACIONAL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/255|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="" group-title="ESPORTES",COMBATE
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/251|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="" group-title="ESPORTES",COMBATE HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/253|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD*" tvg-logo="" group-title="ESPORTES",COMBATE HD*
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/252|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="VARIEDADES",COMEDY CENTRAL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/250|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="" group-title="ESPORTES",COPA DO NORDESTE 2 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/280|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 SD" tvg-logo="" group-title="ESPORTES",COPA DO NORDESTE 2 SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/281|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 HD" tvg-logo="" group-title="ESPORTES",COPA DO NORDESTE 3 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/276|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 SD" tvg-logo="" group-title="ESPORTES",COPA DO NORDESTE 3 SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/277|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD" tvg-logo="" group-title="ESPORTES",COPA DO NORDESTE HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/278|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE SD" tvg-logo="" group-title="ESPORTES",COPA DO NORDESTE SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/279|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CORRIDA MALUCA" tvg-logo="" group-title="24H",CORRIDA MALUCA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/36|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="CURTA!" tvg-logo="" group-title="VARIEDADES",CURTA!
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/249|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/247|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/248|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/245|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY H&H
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/241|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/242|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/240|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/239|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/244|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/59|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO FHD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/246|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/243|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/238|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/237|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/58|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/235|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/57|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR SD" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/236|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="" group-title="INFANTIL",DISNEY XD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/233|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="" group-title="INFANTIL",DISNEY XD HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/56|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD SD" tvg-logo="" group-title="INFANTIL",DISNEY XD SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/234|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24H",DRAGON BALL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/35|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DW (DEUTSCH )" tvg-logo="" group-title="NOTICIAS",DW (DEUTSCH )
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/291|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DW (ESP)" tvg-logo="" group-title="NOTICIAS",DW (ESP)
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/290|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="DW LATINOAMERICA" tvg-logo="" group-title="NOTICIAS",DW LATINOAMERICA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/289|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="E! SD" tvg-logo="" group-title="VARIEDADES",E! SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/159|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="ESPORTES",ESPN
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/229|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="ESPORTES",ESPN 2
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/226|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="" group-title="ESPORTES",ESPN 2 FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/228|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="" group-title="ESPORTES",ESPN 2 SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/227|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="" group-title="ESPORTES",ESPN BRASIL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/222|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL FHD" tvg-logo="" group-title="ESPORTES",ESPN BRASIL FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/225|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="" group-title="ESPORTES",ESPN BRASIL HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/224|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL SD" tvg-logo="" group-title="ESPORTES",ESPN BRASIL SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/223|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA FHD" tvg-logo="" group-title="ESPORTES",ESPN EXTRA FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/221|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA SD" tvg-logo="" group-title="ESPORTES",ESPN EXTRA SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/220|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="" group-title="ESPORTES",ESPN FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/232|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="ESPORTES",ESPN HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/231|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="" group-title="ESPORTES",ESPN SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/230|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO" tvg-logo="" group-title="ESPORTES",ESPORTE INTERATIVO
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/218|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="" group-title="ESPORTES",ESPORTE INTERATIVO HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/219|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FAMÍLIA DINOSSAURO" tvg-logo="" group-title="24H",FAMÍLIA DINOSSAURO
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/33|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="" group-title="VARIEDADES",FASHION TV
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/217|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="" group-title="VARIEDADES",FILM & ARTS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/55|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="" group-title="VARIEDADES",FISH TV
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/216|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FLASHMAN" tvg-logo="" group-title="24H",FLASHMAN
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/32|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="" group-title="VARIEDADES",FOOD NETWORK
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/215|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATÔMICA" tvg-logo="" group-title="24H",FORMIGA ATÔMICA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/31|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo=""  group-title="FILMES & SERIES",FOX
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/54|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo=""  group-title="FILMES & SERIES",FOX FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/214|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo=""  group-title="FILMES & SERIES",FOX LIFE
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/213|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo=""  group-title="FILMES & SERIES",FOX PREMIUM 1
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/212|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD" tvg-logo=""  group-title="FILMES & SERIES",FOX PREMIUM 1 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/211|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo=""  group-title="FILMES & SERIES",FOX PREMIUM 2
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/210|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD" tvg-logo=""  group-title="FILMES & SERIES",FOX PREMIUM 2 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/209|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="" group-title="ESPORTES",FOX SPORTS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/207|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="ESPORTES",FOX SPORTS 2
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/205|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="ESPORTES",FOX SPORTS 2 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/206|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS FHD" tvg-logo="" group-title="ESPORTES",FOX SPORTS FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/208|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="" group-title="TV ABERTA",FUTURA
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA RJ" tvg-logo="" group-title="TV ABERTA",FUTURA RJ
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo=""  group-title="FILMES & SERIES",FX
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/53|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo=""  group-title="FILMES & SERIES",FX HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/202|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GATO FELIX" tvg-logo="" group-title="24H",GATO FELIX
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/30|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="" group-title="CANAIS GLOBO",GLOBO BRASILIA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/196|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="" group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/193|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO" tvg-logo="" group-title="CANAIS GLOBO",GLOBO EPTV RIBEIRÃO PRETO
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/192|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SÃO CARLOS" tvg-logo="" group-title="CANAIS GLOBO",GLOBO EPTV SÃO CARLOS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/191|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV CABUGI
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/189|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="" group-title="CANAIS GLOBO",GLOBO MINAS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/195|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO MINAS HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/175|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="" group-title="NOTICIAS",GLOBO NEWS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/171|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NORDESTE
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/190|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NORDESTE HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/174|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PORTO ALEGRE" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RBS TV PORTO ALEGRE
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/188|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO REDE AMAZONICA HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/176|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZÔNICA MANAUS" tvg-logo="" group-title="CANAIS GLOBO",GLOBO REDE AMAZÔNICA MANAUS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/177|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RJ HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/198|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RJ SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/197|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV CURITIBA" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RPC TV CURITIBA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/194|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="" group-title="CANAIS GLOBO",GLOBO SP
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/199|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO SP FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/201|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO SP HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/173|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO SP SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/200|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV ANHANGUERA GOIANIA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/187|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV BAHIA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/186|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV BAHIA HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/172|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMÉRICA CUIBÁ" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV CENTRO AMÉRICA CUIBÁ
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/185|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV LIBERAL BELEM
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/184|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV TEM BAURU
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/183|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SJRP" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV TEM SJRP
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/182|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV TEM SOROCABA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/181|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV TRIBUNA SANTOS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/180|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/179|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV VERDES MARES FORTALEZA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/178|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="" group-title="INFANTIL",GLOOB
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/170|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD" tvg-logo="" group-title="INFANTIL",GLOOBINHO HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/169|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="" group-title="VARIEDADES",GNT
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/168|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="" group-title="INFANTIL",GOSPEL CARTOON
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/167|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES TELEVISION" tvg-logo="" group-title="RELIGIOSOS",GOSPEL MOVIES TELEVISION
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/166|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MUSIC TV" tvg-logo="" group-title="RELIGIOSOS",GOSPEL MUSIC TV
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/165|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="DOCUMENTARIOS",H2
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/164|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo=""  group-title="FILMES & SERIES",HBO
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/163|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo=""  group-title="FILMES & SERIES",HBO 2
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/162|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo=""  group-title="FILMES & SERIES",HBO FAMILY
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/161|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo=""  group-title="FILMES & SERIES",HBO PLUS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/160|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo=""  group-title="FILMES & SERIES",HBO SIGNATURE
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/158|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="HE-MAN" tvg-logo="" group-title="24H",HE-MAN
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/4|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="HORA DE AVENTURA" tvg-logo="" group-title="24H",HORA DE AVENTURA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/29|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇÃO DISCOVERY" tvg-logo="" group-title="DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/157|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="INTERNATIONAL CHAMPIONS CUP HD" tvg-logo="" group-title="ESPORTES",INTERNATIONAL CHAMPIONS CUP HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/156|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="JASPION" tvg-logo="" group-title="24H",JASPION
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/28|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA FHD (ESP)" tvg-logo="" group-title="24H",LA SEXTA FHD (ESP)
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/288|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo=""  group-title="FILMES & SERIES",LIFETIME
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/287|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA" tvg-logo="" group-title="24H",LIGA DA JUSTIÇA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/27|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MACGYVER" tvg-logo="" group-title="24H",MACGYVER
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/26|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="" group-title="VARIEDADES",MAIS GLOBOSAT
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/286|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo=""  group-title="FILMES & SERIES",MAX
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/154|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME" tvg-logo=""  group-title="FILMES & SERIES",MAX PRIME
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/153|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo=""  group-title="FILMES & SERIES",MAX UP
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/152|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MEGA FHD (ESP)" tvg-logo="" group-title="24H",MEGA FHD (ESP)
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/285|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo=""  group-title="FILMES & SERIES",MEGAPIX
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/151|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MIAMI TV HD" tvg-logo="" group-title="VARIEDADES",MIAMI TV HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/150|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MR. BEAN" tvg-logo="" group-title="24H",MR. BEAN
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/25|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="VARIEDADES",MTV
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/284|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="" group-title="VARIEDADES",MULTISHOW
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/149|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="" group-title="VARIEDADES",MUSIC BOX BRAZIL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/148|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="" group-title="INFANTIL",NATGEO KIDS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/147|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="" group-title="DOCUMENTARIOS",NATGEO WILD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/146|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/145|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="NBR HD" tvg-logo="" group-title="NOTICIAS",NBR HD
-http://200.159.254.241/vod/ocp(t(FWRQZqn4W0w.)r(PzxGDQ..)a(s9FtMg..)p(d(HgA.)k(j-U.)m(Z4YhCj62oG8dYL9BrheW5Q..)n(a(H6bN3Q..)s(5sw.)'a(NV7p_g..)s(rV0.)'a(kuGZcQ..)s(l6M.)))s(s(REc.)b(qAkcT92RIbjxcCzuLMrT-VqPvonxuSD3FKTubVieWeg8oheBEDyAv8sktoprgsFElIo.)'s(6zM.)b(4R63YPkZZZzEBD6zz6ZYzmTw-FJcJk6OCWSk2VjhOQcN)'s(K-o.)b(pkSEGmHrbA..))m(0))/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NEOX FHD (ESP)" tvg-logo="" group-title="24H",NEOX FHD (ESP)
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/283|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="INFANTIL",NICK JR
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/143|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" group-title="INFANTIL",NICKELODEON
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/142|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="NINJA JIRAIYA" tvg-logo="" group-title="24H",NINJA JIRAIYA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/24|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="" group-title="24H",O FANTÁSTICO MUNDO DE BOBBY
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/23|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo=""  group-title="FILMES & SERIES",OFF
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/52|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES" tvg-logo="" group-title="24H",OS FLINTSTONES
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/22|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="OS NORMAIS" tvg-logo="" group-title="24H",OS NORMAIS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/3|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="" group-title="24H",OS SIMPSONS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/21|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES" tvg-logo="" group-title="24H",OS TRAPALHÕES
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/20|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo=""  group-title="FILMES & SERIES",PARAMOUNT
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/51|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PATATI PATATA" tvg-logo="" group-title="24H",PATATI PATATA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/19|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="" group-title="24H",PEPPA PIG
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/18|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PICA-PAU" tvg-logo="" group-title="24H",PICA-PAU
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/17|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="" group-title="VARIEDADES",PLAY TV
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/141|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS HD" tvg-logo="" group-title="INFANTIL",PLAYKIDS HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/139|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="POPEYE" tvg-logo="" group-title="24H",POPEYE
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/2|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PORTO TV (PT)" tvg-logo="" group-title="VARIEDADES",PORTO TV (PT)
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/138|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="" group-title="ESPORTES",PREMIERE 2
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/134|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="" group-title="ESPORTES",PREMIERE 2 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/135|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="" group-title="ESPORTES",PREMIERE 3
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/132|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="" group-title="ESPORTES",PREMIERE 3 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/133|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="" group-title="ESPORTES",PREMIERE 4
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/130|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="" group-title="ESPORTES",PREMIERE 4 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/131|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="" group-title="ESPORTES",PREMIERE 5
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/128|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="" group-title="ESPORTES",PREMIERE 5 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/129|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="" group-title="ESPORTES",PREMIERE 6
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/127|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="" group-title="ESPORTES",PREMIERE 7
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/126|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8" tvg-logo="" group-title="ESPORTES",PREMIERE 8
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/125|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="" group-title="ESPORTES",PREMIERE CLUBES
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/136|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="" group-title="ESPORTES",PREMIERE CLUBES FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/137|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="" group-title="VARIEDADES",PRIME BOX BRAZIL HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/88|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RBATV SANTARÉM" tvg-logo="" group-title="TV ABERTA",RBATV SANTARÉM
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/124|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV (ESP)" tvg-logo="" group-title="ESPORTES",REAL MADRID TV (ESP)
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/123|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA" tvg-logo="" group-title="TV ABERTA",RECORD BRASILIA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/122|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RECORD HD" tvg-logo="" group-title="TV ABERTA",RECORD HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/50|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RECORD ITAPOAN" tvg-logo="" group-title="TV ABERTA",RECORD ITAPOAN
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/121|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS" tvg-logo="" group-title="TV ABERTA",RECORD MINAS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/120|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="" group-title="NOTICIAS",RECORD NEWS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/118|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS ES" tvg-logo="" group-title="NOTICIAS",RECORD NEWS ES
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/119|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO" tvg-logo="" group-title="TV ABERTA",RECORD RIO
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/117|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RS" tvg-logo="" group-title="TV ABERTA",RECORD RS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/116|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SD" tvg-logo="" group-title="TV ABERTA",RECORD SD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/114|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="" group-title="TV ABERTA",RECORD SP
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/113|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="" group-title="TV ABERTA",RECORD SP HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/115|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="" group-title="TV ABERTA",REDE BRASIL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/112|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL DE" tvg-logo="" group-title="TV ABERTA",REDE BRASIL DE
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/111|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL DE COMUNICAÇÃO PE HD" tvg-logo="" group-title="TV ABERTA",REDE BRASIL DE COMUNICAÇÃO PE HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/110|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL SP" tvg-logo="" group-title="TV ABERTA",REDE BRASIL SP
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/109|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS FHD" tvg-logo="" group-title="TV ABERTA",REDE MINAS FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/108|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER" tvg-logo="" group-title="TV ABERTA",REDE SUPER
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/107|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA SD" tvg-logo="" group-title="TV ABERTA",REDE VIDA SD
-http://wpc.9280f.sigmacdn.net/249280F/default/default.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDETV!" tvg-logo="" group-title="TV ABERTA",REDETV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w89340568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDETV! RJ" tvg-logo="" group-title="TV ABERTA",REDETV! RJ
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w89340568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="" group-title="TV ABERTA",SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w965605121_b131000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT PERNAMBUCO" tvg-logo="" group-title="TV ABERTA",SBT PERNAMBUCO
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w965605121_b131000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT PERNAMBUCO HD" tvg-logo="" group-title="TV ABERTA",SBT PERNAMBUCO HD
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT PIAUÍ HD" tvg-logo="" group-title="TV ABERTA",SBT PIAUÍ HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1968456711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO" tvg-logo="" group-title="24H",SCOOBY DOO
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/16|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo=""  group-title="FILMES & SERIES",SPACE
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/97|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SPECTREMAN" tvg-logo="" group-title="24H",SPECTREMAN
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/15|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SPEED RACER" tvg-logo="" group-title="24H",SPEED RACER
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/14|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="" group-title="ESPORTES",SPORTV
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/95|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" group-title="ESPORTES",SPORTV 2
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/94|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD" tvg-logo="" group-title="ESPORTES",SPORTV 2 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/91|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="" group-title="ESPORTES",SPORTV 3
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/92|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD" tvg-logo="" group-title="ESPORTES",SPORTV 3 HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/93|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV FHD" tvg-logo="" group-title="ESPORTES",SPORTV FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/96|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo=""  group-title="FILMES & SERIES",STUDIO UNIVERSAL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/49|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SUPER AMIGOS" tvg-logo="" group-title="24H",SUPER AMIGOS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/13|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SUPER VICKY" tvg-logo="" group-title="24H",SUPER VICKY
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/1|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo=""  group-title="FILMES & SERIES",SYFY
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/87|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo=""  group-title="FILMES & SERIES",TBS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/86|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo=""  group-title="FILMES & SERIES",TCM
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/48|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION" tvg-logo=""  group-title="FILMES & SERIES",TELECINE ACTION
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/85|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT" tvg-logo=""  group-title="FILMES & SERIES",TELECINE CULT
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/47|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo=""  group-title="FILMES & SERIES",TELECINE CULT HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/84|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN" tvg-logo=""  group-title="FILMES & SERIES",TELECINE FUN
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/83|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo=""  group-title="FILMES & SERIES",TELECINE PIPOCA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/82|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM" tvg-logo=""  group-title="FILMES & SERIES",TELECINE PREMIUM
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/81|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH" tvg-logo=""  group-title="FILMES & SERIES",TELECINE TOUCH
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/80|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG THEORY" tvg-logo="" group-title="24H",THE BIG BANG THEORY
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/12|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="THE HISTORY CHANNEL" tvg-logo="" group-title="DOCUMENTARIOS",THE HISTORY CHANNEL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/79|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="THE HISTORY CHANNEL FHD" tvg-logo="" group-title="DOCUMENTARIOS",THE HISTORY CHANNEL FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/78|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS" tvg-logo="" group-title="24H",THUNDERCATS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/11|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="DOCUMENTARIOS",TLC
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/77|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo=""  group-title="FILMES & SERIES",TNT
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/76|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TNT SÉRIES FHD" tvg-logo=""  group-title="FILMES & SERIES",TNT SÉRIES FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/90|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="" group-title="24H",TODO MUNDO ODEIA O CHRIS
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/10|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="" group-title="24H",TOM & JERRY
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/9|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="INFANTIL",TOONCAST
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/75|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TURMA DA MÔNICA" tvg-logo="" group-title="24H",TURMA DA MÔNICA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/8|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TV BAIANA" tvg-logo="" group-title="TV ABERTA",TV BAIANA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/74|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="" group-title="TV ABERTA",TV BRASIL HD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/73|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA" tvg-logo="" group-title="TV ABERTA",TV CULTURA
-https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1570952804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="" group-title="RELIGIOSOS",TV EVANGELIZAR
-http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD" tvg-logo="" group-title="TV ABERTA",TV GAZETA HD
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVA NORDESTE FHD" tvg-logo="" group-title="TV ABERTA",TV NOVA NORDESTE FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/71|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="" group-title="RELIGIOSOS",TV NOVO TEMPO
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/68|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="" group-title="INFANTIL",TV RA TIM BUM
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/282|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="TV VITÓRIA" tvg-logo="" group-title="RELIGIOSOS",TV VITÓRIA
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ULTRAMAN" tvg-logo="" group-title="24H",ULTRAMAN
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/7|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="" group-title="24H",UM MALUCO NO PEDAÇO
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/6|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="" group-title="RELIGIOSOS",UNIVERSAL TV
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/66|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="" group-title="VARIEDADES",VIVA
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/64|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo=""  group-title="FILMES & SERIES",WARNER CHANNEL
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/62|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL FHD" tvg-logo=""  group-title="FILMES & SERIES",WARNER CHANNEL FHD
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/63|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
-#EXTINF:-1 tvg-id="" tvg-name="WOOHOO" tvg-logo="" group-title="VARIEDADES",WOOHOO
-http://144.217.181.63:25461/bztodQJQK8/N7NvhkF3XJ/46|User-Agent=NetunuPlayer/2.0 (Linux;Android) NetunuPlayer/3.3.1
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 101 Dalmatas" tvg-logo="" group-title="24 HORAS",[24H] 101 Dalmatas
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2594
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Bruxinha Sabrina" tvg-logo="" group-title="24 HORAS",[24H] A Bruxinha Sabrina
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2593
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Família Addams" tvg-logo="" group-title="24 HORAS",[24H] A Família Addams
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2592
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Turma Do Charlie Brown E Snoopy" tvg-logo="" group-title="24 HORAS",[24H] A Turma Do Charlie Brown E Snoopy
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2591
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Animaniacs" tvg-logo="" group-title="24 HORAS",[24H] Animaniacs
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2590
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras de Jackie Chan" tvg-logo="" group-title="24 HORAS",[24H] As Aventuras de Jackie Chan
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2602
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras de Piggley Winks" tvg-logo="" group-title="24 HORAS",[24H] As Aventuras de Piggley Winks
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2601
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Super Poderosas" tvg-logo="" group-title="24 HORAS",[24H] As Meninas Super Poderosas
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2600
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Mumias Vivas" tvg-logo="" group-title="24 HORAS",[24H] As Mumias Vivas
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2599
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As_Trapalhadas De Flapjack" tvg-logo="" group-title="24 HORAS",[24H] As_Trapalhadas De Flapjack
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2589
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Avatar Livro 1 2 3" tvg-logo="" group-title="24 HORAS",[24H] Avatar Livro 1 2 3
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2598
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Baby Looney Toones" tvg-logo="" group-title="24 HORAS",[24H] Baby Looney Toones
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2596
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Backyardigans" tvg-logo="" group-title="24 HORAS",[24H] Backyardigans
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2588
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BARNEY E SEUS AMIGOS" tvg-logo="" group-title="24 HORAS",[24H] BARNEY E SEUS AMIGOS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2597
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ben 10 Supremacia Alienígena" tvg-logo="" group-title="24 HORAS",[24H] Ben 10 Supremacia Alienígena
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2595
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Capitao Planeta" tvg-logo="" group-title="24 HORAS",[24H] Capitao Planeta
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2603
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Espacial" tvg-logo="" group-title="24 HORAS",[24H] Corrida Espacial
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2604
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Daniel Tigre" tvg-logo="" group-title="24 HORAS",[24H] Daniel Tigre
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2652
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Deby e Loid" tvg-logo="" group-title="24 HORAS",[24H] Deby e Loid
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2605
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Desenhos Biblicos" tvg-logo="" group-title="24 HORAS",[24H] Desenhos Biblicos
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2649
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug" tvg-logo="" group-title="24 HORAS",[24H] Doug
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2606
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Fabulas Da Disney" tvg-logo="" group-title="24 HORAS",[24H] Fabulas Da Disney
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2607
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Familia Dinossauro" tvg-logo="" group-title="24 HORAS",[24H] Familia Dinossauro
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2608
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Freakazoid" tvg-logo="" group-title="24 HORAS",[24H] Freakazoid
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2609
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="" group-title="24 HORAS",[24H] Galinha Pintadinha
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2610
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Historias de Bruxas e Gigantes" tvg-logo="" group-title="24 HORAS",[24H] Historias de Bruxas e Gigantes
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2640
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ilha Dos Desafios" tvg-logo="" group-title="24 HORAS",[24H] Ilha Dos Desafios
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2611
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Invador Zim" tvg-logo="" group-title="24 HORAS",[24H] Invador Zim
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2612
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jaspion" tvg-logo="" group-title="24 HORAS",[24H] Jaspion
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2613
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo" tvg-logo="" group-title="24 HORAS",[24H] Johnny Bravo
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2614
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Josie e as Gatinhas" tvg-logo="" group-title="24 HORAS",[24H] Josie e as Gatinhas
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2615
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Kiriku e a Feiticeira" tvg-logo="" group-title="24 HORAS",[24H] Kiriku e a Feiticeira
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2639
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha" tvg-logo="" group-title="24 HORAS",[24H] Luluzinha
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2630
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="" group-title="24 HORAS",[24H] Masha e o Urso
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2638
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Megaman" tvg-logo="" group-title="24 HORAS",[24H] Megaman
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2629
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Meu Amigaozao" tvg-logo="" group-title="24 HORAS",[24H] Meu Amigaozao
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2653
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MIB Homens de Preto" tvg-logo="" group-title="24 HORAS",[24H] MIB Homens de Preto
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2628
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Mickey Mouse - Pato Donald Tico E Teco" tvg-logo="" group-title="24 HORAS",[24H] Mickey Mouse - Pato Donald Tico E Teco
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2648
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Mission Hill" tvg-logo="" group-title="24 HORAS",[24H] Mission Hill
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2627
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MONTANHA ENCANTADA" tvg-logo="" group-title="24 HORAS",[24H] MONTANHA ENCANTADA
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2637
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho Clássico" tvg-logo="" group-title="24 HORAS",[24H] Moranguinho Clássico
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2626
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Mortal Kombat" tvg-logo="" group-title="24 HORAS",[24H] Mortal Kombat
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2625
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Mutante Rex" tvg-logo="" group-title="24 HORAS",[24H] Mutante Rex
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2624
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Pequeno Scooby Doo" tvg-logo="" group-title="24 HORAS",[24H] O Pequeno Scooby Doo
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2623
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Pequeno Urso 1995" tvg-logo="" group-title="24 HORAS",[24H] O Pequeno Urso 1995
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2622
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O que ha de novo Scooby Doo" tvg-logo="" group-title="24 HORAS",[24H] O que ha de novo Scooby Doo
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2621
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Show Do Novo Pica-Pau" tvg-logo="" group-title="24 HORAS",[24H] O Show Do Novo Pica-Pau
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2619
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Amiginhos" tvg-logo="" group-title="24 HORAS",[24H] Os Amiginhos
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2633
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Animais do Bosque dos Vintens" tvg-logo="" group-title="24 HORAS",[24H] Os Animais do Bosque dos Vintens
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2620
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Magicos" tvg-logo="" group-title="24 HORAS",[24H] Os Padrinhos Magicos
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2634
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Pinguins de Madagascar" tvg-logo="" group-title="24 HORAS",[24H] Os Pinguins de Madagascar
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2618
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Tres Porquinhos" tvg-logo="" group-title="24 HORAS",[24H] Os Tres Porquinhos
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2635
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Valentes Cowboys de Moo" tvg-logo="" group-title="24 HORAS",[24H] Os Valentes Cowboys de Moo
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2651
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati Patata" tvg-logo="" group-title="24 HORAS",[24H] Patati Patata
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2641
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patrulha Estelar" tvg-logo="" group-title="24 HORAS",[24H] Patrulha Estelar
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2616
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo" tvg-logo="" group-title="24 HORAS",[24H] Pocoyo
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2631
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] RAINHA DAS ANDORINHAS" tvg-logo="" group-title="24 HORAS",[24H] RAINHA DAS ANDORINHAS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2636
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rambo A Serie Animada" tvg-logo="" group-title="24 HORAS",[24H] Rambo A Serie Animada
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2646
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sitio Do Pica-Pau Amarelo" tvg-logo="" group-title="24 HORAS",[24H] Sitio Do Pica-Pau Amarelo
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2650
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Patos" tvg-logo="" group-title="24 HORAS",[24H] Super Patos
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2617
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma da Mônica em Cine Gibi" tvg-logo="" group-title="24 HORAS",[24H] Turma da Mônica em Cine Gibi
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2632
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men Evolution" tvg-logo="" group-title="24 HORAS",[24H] X-Men Evolution
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2647
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="[SD] A&E" tvg-logo="" group-title="FILMES & SERIES",[SD] A&E
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2805
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="[SD] AMC" tvg-logo="" group-title="FILMES & SERIES",[SD] AMC
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2804
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="[SD] ANIMAL PLANET" tvg-logo="" group-title="DOCUMENTARIOS",[SD] ANIMAL PLANET
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2803
+
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="[SD] ARTE 1" tvg-logo="" group-title="VARIEDADES",[SD] ARTE 1
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2802
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="[SD] BABY TV" tvg-logo="" group-title="INFANTIL",[SD] BABY TV
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2801
+
+#EXTINF:-1 tvg-id="BandNews" tvg-name="[SD] BAND NEWS" tvg-logo="" group-title="NOTICIAS",[SD] BAND NEWS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2800
+
+#EXTINF:-1 tvg-id="Band" tvg-name="[SD] BAND SP" tvg-logo="" group-title="TV ABERTA",[SD] BAND SP
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2799
+
+#EXTINF:-1 tvg-id="BandSports" tvg-name="[SD] BAND SPORTS" tvg-logo="" group-title="ESPORTES",[SD] BAND SPORTS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2798
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] BBB 19" tvg-logo="" group-title="BBB 19",[SD] BBB 19
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2797
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="[SD] BIS" tvg-logo="" group-title="VARIEDADES",[SD] BIS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2796
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="[SD] BOOMERANG" tvg-logo="" group-title="INFANTIL",[SD] BOOMERANG
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2795
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="[SD] CANAL BRASIL" tvg-logo="" group-title="VARIEDADES",[SD] CANAL BRASIL
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2794
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="[SD] CANAL SONY" tvg-logo="" group-title="FILMES & SERIES",[SD] CANAL SONY
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2793
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="[SD] CINEMAX" tvg-logo="" group-title="FILMES & SERIES",[SD] CINEMAX
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2792
+
+#EXTINF:-1 tvg-id="CNNe" tvg-name="[SD] CNN ESPANHOL" tvg-logo="" group-title="NOTICIAS",[SD] CNN ESPANHOL
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2791
+
+#EXTINF:-1 tvg-id="CNNi" tvg-name="[SD] CNN INTERNACIONAL" tvg-logo="" group-title="NOTICIAS",[SD] CNN INTERNACIONAL
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2790
+
+#EXTINF:-1 tvg-id="Combate" tvg-name="[SD] COMBATE" tvg-logo="" group-title="ESPORTES",[SD] COMBATE
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2789
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="[SD] COMEDY CENTRAL" tvg-logo="" group-title="FILMES & SERIES",[SD] COMEDY CENTRAL
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2788
+
+#EXTINF:-1 tvg-id="Curta!" tvg-name="[SD] CURTA" tvg-logo="" group-title="VARIEDADES",[SD] CURTA
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2787
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="[SD] DISCOVERY CHANNEL" tvg-logo="" group-title="DOCUMENTARIOS",[SD] DISCOVERY CHANNEL
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2786
+
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="[SD] DISCOVERY H&H" tvg-logo="" group-title="DOCUMENTARIOS",[SD] DISCOVERY H&H
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2785
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="[SD] DISCOVERY KIDS" tvg-logo="" group-title="INFANTIL",[SD] DISCOVERY KIDS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2784
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="[SD] DISNEY CHANNEL" tvg-logo="" group-title="INFANTIL",[SD] DISNEY CHANNEL
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2783
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="[SD] DISNEY JUNIOR" tvg-logo="" group-title="INFANTIL",[SD] DISNEY JUNIOR
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2782
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="[SD] DISNEY XD" tvg-logo="" group-title="INFANTIL",[SD] DISNEY XD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2781
+
+#EXTINF:-1 tvg-id="E!" tvg-name="[SD] E! SD" tvg-logo="" group-title="VARIEDADES",[SD] E! SD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2780
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="[SD] ESPN" tvg-logo="" group-title="ESPORTES",[SD] ESPN
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2779
+
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="[SD] ESPN 2" tvg-logo="" group-title="ESPORTES",[SD] ESPN 2
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2778
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="[SD] ESPN BRASIL" tvg-logo="" group-title="ESPORTES",[SD] ESPN BRASIL
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2777
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="[SD] ESPN EXTRA SD" tvg-logo="" group-title="ESPORTES",[SD] ESPN EXTRA SD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2776
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="[SD] ESPN SD" tvg-logo="" group-title="ESPORTES",[SD] ESPN SD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2775
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] FILM & ARTS" tvg-logo="" group-title="VARIEDADES",[SD] FILM & ARTS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2774
+
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="[SD] FISH TV" tvg-logo="" group-title="VARIEDADES",[SD] FISH TV
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2773
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="[SD] FOOD NETWORK" tvg-logo="" group-title="VARIEDADES",[SD] FOOD NETWORK
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2772
+
+#EXTINF:-1 tvg-id="Fox" tvg-name="[SD] FOX" tvg-logo="" group-title="FILMES & SERIES",[SD] FOX
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2771
+
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="[SD] FOX LIFE" tvg-logo="" group-title="FILMES & SERIES",[SD] FOX LIFE
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2770
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="[SD] FOX SPORTS" tvg-logo="" group-title="ESPORTES",[SD] FOX SPORTS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2769
+
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="[SD] FOX SPORTS 2" tvg-logo="" group-title="ESPORTES",[SD] FOX SPORTS 2
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2768
+
+#EXTINF:-1 tvg-id="FX" tvg-name="[SD] FX" tvg-logo="" group-title="FILMES & SERIES",[SD] FX
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2767
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO BRASILIA" tvg-logo="" group-title="GLOBO",[SD] GLOBO BRASILIA
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2766
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO EPTV CAMPINAS" tvg-logo="" group-title="GLOBO",[SD] GLOBO EPTV CAMPINAS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2765
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO EPTV RIBEIRÃO PRETO" tvg-logo="" group-title="GLOBO",[SD] GLOBO EPTV RIBEIRÃO PRETO
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2764
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO EPTV SÃO CARLOS" tvg-logo="" group-title="GLOBO",[SD] GLOBO EPTV SÃO CARLOS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2763
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO INTER TV CABUGI" tvg-logo="" group-title="GLOBO",[SD] GLOBO INTER TV CABUGI
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2762
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO MINAS" tvg-logo="" group-title="GLOBO",[SD] GLOBO MINAS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2761
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO NEWS" tvg-logo="" group-title="NOTICIAS",[SD] GLOBO NEWS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2760
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO NORDESTE" tvg-logo="" group-title="GLOBO",[SD] GLOBO NORDESTE
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2759
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO RBS TV PORTO ALEGRE" tvg-logo="" group-title="GLOBO",[SD] GLOBO RBS TV PORTO ALEGRE
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2758
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO REDE AMAZÔNICA MANAUS" tvg-logo="" group-title="GLOBO",[SD] GLOBO REDE AMAZÔNICA MANAUS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2757
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO RJ SD" tvg-logo="" group-title="GLOBO",[SD] GLOBO RJ SD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2756
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO RPC TV CURITIBA" tvg-logo="" group-title="GLOBO",[SD] GLOBO RPC TV CURITIBA
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2755
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO SP" tvg-logo="" group-title="GLOBO",[SD] GLOBO SP
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2754
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO TV ANHANGUERA GOIANIA" tvg-logo="" group-title="GLOBO",[SD] GLOBO TV ANHANGUERA GOIANIA
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2753
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO TV BAHIA" tvg-logo="" group-title="GLOBO",[SD] GLOBO TV BAHIA
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2752
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO TV CENTRO AMÉRICA CUIBÁ" tvg-logo="" group-title="GLOBO",[SD] GLOBO TV CENTRO AMÉRICA CUIBÁ
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2751
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO TV LIBERAL BELEM" tvg-logo="" group-title="GLOBO",[SD] GLOBO TV LIBERAL BELEM
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2750
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO TV TEM BAURU" tvg-logo="" group-title="GLOBO",[SD] GLOBO TV TEM BAURU
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2749
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO TV TEM SJRP" tvg-logo="" group-title="GLOBO",[SD] GLOBO TV TEM SJRP
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2748
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO TV TEM SOROCABA" tvg-logo="" group-title="GLOBO",[SD] GLOBO TV TEM SOROCABA
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2747
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO TV TRIBUNA SANTOS" tvg-logo="" group-title="GLOBO",[SD] GLOBO TV TRIBUNA SANTOS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2746
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS" tvg-logo="" group-title="GLOBO",[SD] GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2745
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] GLOBO TV VERDES MARES FORTALEZA" tvg-logo="" group-title="GLOBO",[SD] GLOBO TV VERDES MARES FORTALEZA
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2744
+
+#EXTINF:-1 tvg-id="Gloob" tvg-name="[SD] GLOOB" tvg-logo="" group-title="INFANTIL",[SD] GLOOB
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2743
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="[SD] GNT" tvg-logo="" group-title="VARIEDADES",[SD] GNT
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2742
+
+#EXTINF:-1 tvg-id="H2" tvg-name="[SD] H2" tvg-logo="" group-title="DOCUMENTARIOS",[SD] H2
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2741
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="[SD] HBO" tvg-logo="" group-title="FILMES & SERIES",[SD] HBO
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2740
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="[SD] HBO 2" tvg-logo="" group-title="FILMES & SERIES",[SD] HBO 2
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2739
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="[SD] HBO FAMILY" tvg-logo="" group-title="FILMES & SERIES",[SD] HBO FAMILY
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2738
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="[SD] HBO PLUS" tvg-logo="" group-title="FILMES & SERIES",[SD] HBO PLUS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2737
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="[SD] HBO SIGNATURE" tvg-logo="" group-title="FILMES & SERIES",[SD] HBO SIGNATURE
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2736
+
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="[SD] ID - INVESTIGAÇÃO DISCOVERY" tvg-logo="" group-title="DOCUMENTARIOS",[SD] ID - INVESTIGAÇÃO DISCOVERY
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2735
+
+#EXTINF:-1 tvg-id="MAX" tvg-name="[SD] MAX" tvg-logo="" group-title="FILMES & SERIES",[SD] MAX
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2734
+
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="[SD] MAX PRIME" tvg-logo="" group-title="FILMES & SERIES",[SD] MAX PRIME
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2733
+
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="[SD] MAX UP" tvg-logo="" group-title="FILMES & SERIES",[SD] MAX UP
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2732
+
+#EXTINF:-1 tvg-id="Megapix" tvg-name="[SD] MEGAPIX" tvg-logo="" group-title="FILMES & SERIES",[SD] MEGAPIX
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2731
+
+#EXTINF:-1 tvg-id="Multishow" tvg-name="[SD] MULTISHOW" tvg-logo="" group-title="VARIEDADES",[SD] MULTISHOW
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2730
+
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="[SD] MUSIC BOX BRAZIL" tvg-logo="" group-title="VARIEDADES",[SD] MUSIC BOX BRAZIL
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2729
+
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="[SD] NATGEO KIDS" tvg-logo="" group-title="INFANTIL",[SD] NATGEO KIDS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2728
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="[SD] NATGEO WILD" tvg-logo="" group-title="DOCUMENTARIOS",[SD] NATGEO WILD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2727
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="[SD] NATIONAL GEOGRAPHIC" tvg-logo="" group-title="DOCUMENTARIOS",[SD] NATIONAL GEOGRAPHIC
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2726
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="[SD] NICK JR" tvg-logo="" group-title="INFANTIL",[SD] NICK JR
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2725
+
+#EXTINF:-1 tvg-id="Nick" tvg-name="[SD] NICKELODEON" tvg-logo="" group-title="INFANTIL",[SD] NICKELODEON
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2724
+
+#EXTINF:-1 tvg-id="Off" tvg-name="[SD] OFF" tvg-logo="" group-title="FILMES & SERIES",[SD] OFF
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2723
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="[SD] PARAMOUNT" tvg-logo="" group-title="FILMES & SERIES",[SD] PARAMOUNT
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2722
+
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="[SD] PLAY TV" tvg-logo="" group-title="VARIEDADES",[SD] PLAY TV
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2721
+
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="[SD] PREMIERE 2" tvg-logo="" group-title="ESPORTES",[SD] PREMIERE 2
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2719
+
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="[SD] PREMIERE 3" tvg-logo="" group-title="ESPORTES",[SD] PREMIERE 3
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2718
+
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="[SD] PREMIERE 4" tvg-logo="" group-title="ESPORTES",[SD] PREMIERE 4
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2717
+
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="[SD] PREMIERE 5" tvg-logo="" group-title="ESPORTES",[SD] PREMIERE 5
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2716
+
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="[SD] PREMIERE 6" tvg-logo="" group-title="ESPORTES",[SD] PREMIERE 6
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2715
+
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="[SD] PREMIERE 7" tvg-logo="" group-title="ESPORTES",[SD] PREMIERE 7
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2714
+
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="[SD] PREMIERE 8" tvg-logo="" group-title="ESPORTES",[SD] PREMIERE 8
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2713
+
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="[SD] PREMIERE CLUBES" tvg-logo="" group-title="ESPORTES",[SD] PREMIERE CLUBES
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2712
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] RECORD BRASILIA" tvg-logo="" group-title="TV ABERTA",[SD] RECORD BRASILIA
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2711
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] RECORD ITAPOAN" tvg-logo="" group-title="TV ABERTA",[SD] RECORD ITAPOAN
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2710
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] RECORD MINAS" tvg-logo="" group-title="TV ABERTA",[SD] RECORD MINAS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2709
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] RECORD NEWS" tvg-logo="" group-title="NOTICIAS",[SD] RECORD NEWS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2708
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] RECORD RIO" tvg-logo="" group-title="TV ABERTA",[SD] RECORD RIO
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2707
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] RECORD RS" tvg-logo="" group-title="TV ABERTA",[SD] RECORD RS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2706
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] RECORD SD" tvg-logo="" group-title="TV ABERTA",[SD] RECORD SD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2705
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] RECORD SP" tvg-logo="" group-title="TV ABERTA",[SD] RECORD SP
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2704
+
+#EXTINF:-1 tvg-id="" tvg-name="[SD] REDETV!" tvg-logo="" group-title="TV ABERTA",[SD] REDETV!
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2703
+
+#EXTINF:-1 tvg-id="Space" tvg-name="[SD] SPACE" tvg-logo="" group-title="FILMES & SERIES",[SD] SPACE
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2700
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="[SD] SPORTV" tvg-logo="" group-title="ESPORTES",[SD] SPORTV
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2699
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="[SD] SPORTV 2" tvg-logo="" group-title="ESPORTES",[SD] SPORTV 2
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2698
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="[SD] SPORTV 3" tvg-logo="" group-title="ESPORTES",[SD] SPORTV 3
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2697
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="[SD] STUDIO UNIVERSAL" tvg-logo="" group-title="FILMES & SERIES",[SD] STUDIO UNIVERSAL
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2696
+
+#EXTINF:-1 tvg-id="Syfy" tvg-name="[SD] SYFY" tvg-logo="" group-title="FILMES & SERIES",[SD] SYFY
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2695
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="[SD] TBS" tvg-logo="" group-title="FILMES & SERIES",[SD] TBS
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2694
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="[SD] TCM" tvg-logo="" group-title="FILMES & SERIES",[SD] TCM
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2693
+
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="[SD] TELECINE ACTION" tvg-logo="" group-title="FILMES & SERIES",[SD] TELECINE ACTION
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2692
+
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="[SD] TELECINE CULT" tvg-logo="" group-title="FILMES & SERIES",[SD] TELECINE CULT
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2691
+
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="[SD] TELECINE FUN" tvg-logo="" group-title="FILMES & SERIES",[SD] TELECINE FUN
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2690
+
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="[SD] TELECINE PIPOCA" tvg-logo="" group-title="FILMES & SERIES",[SD] TELECINE PIPOCA
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2689
+
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="[SD] TELECINE PREMIUM" tvg-logo="" group-title="FILMES & SERIES",[SD] TELECINE PREMIUM
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2688
+
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="[SD] TELECINE TOUCH" tvg-logo="" group-title="FILMES & SERIES",[SD] TELECINE TOUCH
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2687
+
+#EXTINF:-1 tvg-id="History" tvg-name="[SD] THE HISTORY CHANNEL" tvg-logo="" group-title="DOCUMENTARIOS",[SD] THE HISTORY CHANNEL
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2686
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="[SD] TLC" tvg-logo="" group-title="DOCUMENTARIOS",[SD] TLC
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2685
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="[SD] TNT" tvg-logo="" group-title="FILMES & SERIES",[SD] TNT
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2684
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="[SD] TOONCAST" tvg-logo="" group-title="INFANTIL",[SD] TOONCAST
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2683
+
+#EXTINF:-1 tvg-id="Viva" tvg-name="[SD] VIVA" tvg-logo="" group-title="VARIEDADES",[SD] VIVA
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2682
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="[SD] WARNER CHANNEL" tvg-logo="" group-title="FILMES & SERIES",[SD] WARNER CHANNEL
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2681
+
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="[SD] WOOHOO" tvg-logo="" group-title="VARIEDADES",[SD] WOOHOO
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2680
+
+#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Engenheiros do Hawaii" tvg-logo="" group-title="24 HORAS",[SHOW] Engenheiros do Hawaii
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2643
+
+#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Kid Abelha Acustico" tvg-logo="" group-title="24 HORAS",[SHOW] Kid Abelha Acustico
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2644
+
+#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Queens Rock Montreal" tvg-logo="" group-title="24 HORAS",[SHOW] Queens Rock Montreal
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2642
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E (SAT)" tvg-logo="" group-title="FILMES & SERIES",A&E (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2516
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC (SAT)" tvg-logo="" group-title="FILMES & SERIES",AMC (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2515
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET (SAT)" tvg-logo="" group-title="DOCUMENTARIOS",ANIMAL PLANET (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2514
+
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 (SAT)" tvg-logo="" group-title="VARIEDADES",ARTE 1 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2513
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN (SAT)" tvg-logo="" group-title="FILMES & SERIES",AXN (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2512
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV (SAT)" tvg-logo="" group-title="INFANTIL",BABY TV (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2511
+
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS (SAT)" tvg-logo="" group-title="NOTICIAS",BAND NEWS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2510
+
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS (SAT)" tvg-logo="" group-title="ESPORTES",BAND SPORTS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2509
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 19 HD AQUECIMENTO" tvg-logo="" group-title="BBB 19",BBB 19 HD AQUECIMENTO
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2114
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1 HD" tvg-logo="" group-title="BBB 19",BBB CAM 1 HD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2679
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2 HD" tvg-logo="" group-title="BBB 19",BBB CAM 2 HD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2678
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3 HD" tvg-logo="" group-title="BBB 19",BBB CAM 3 HD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2677
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4 HD" tvg-logo="" group-title="BBB 19",BBB CAM 4 HD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2676
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5 HD" tvg-logo="" group-title="BBB 19",BBB CAM 5 HD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2674
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6 HD" tvg-logo="" group-title="BBB 19",BBB CAM 6 HD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2673
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7 HD" tvg-logo="" group-title="BBB 19",BBB CAM 7 HD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2672
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8 HD" tvg-logo="" group-title="BBB 19",BBB CAM 8 HD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2671
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9 HD" tvg-logo="" group-title="BBB 19",BBB CAM 9 HD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2670
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB CASA 10 HD" tvg-logo="" group-title="BBB 19",BBB CASA 10 HD
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2675
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS (SAT)" tvg-logo="" group-title="VARIEDADES",BIS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2508
+
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV (SAT)" tvg-logo="" group-title="RELIGIOSOS",BOA VONTADE TV (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2507
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG (SAT)" tvg-logo="" group-title="INFANTIL",BOOMERANG (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2506
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL (SAT)" tvg-logo="" group-title="VARIEDADES",CANAL BRASIL (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2505
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI (SAT)" tvg-logo="" group-title="TV ABERTA",CANAL DO BOI (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2504
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL (SAT)" tvg-logo="" group-title="TV ABERTA",CANAL RURAL (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2503
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY (SAT)" tvg-logo="" group-title="FILMES & SERIES",CANAL SONY (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2502
+
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA (SAT)" tvg-logo="" group-title="RELIGIOSOS",CANÇÃO NOVA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2501
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK (SAT)" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2500
+
+#EXTINF:-1 tvg-id="" tvg-name="CNT (SAT)" tvg-logo="" group-title="TV ABERTA",CNT (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2499
+
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE (SAT)" tvg-logo="" group-title="ESPORTES",COMBATE (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2498
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL (SAT)" tvg-logo="" group-title="FILMES & SERIES",COMEDY CENTRAL (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2497
+
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! (SAT)" tvg-logo="" group-title="VARIEDADES",CURTA! (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2496
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL (SAT)" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2495
+
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY H&H (SAT)" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY H&H (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2494
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO (SAT)" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY TURBO (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2493
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY (SAT)" tvg-logo="" group-title="INFANTIL",DISNEY (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2492
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR (SAT)" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2491
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD (SAT)" tvg-logo="" group-title="INFANTIL",DISNEY XD (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2490
+
+#EXTINF:-1 tvg-id="E!" tvg-name="E! (SAT)" tvg-logo="" group-title="VARIEDADES",E! (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2489
+
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN  (SAT)" tvg-logo="" group-title="ESPORTES",ESPN 2 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2486
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN (SAT)" tvg-logo="" group-title="ESPORTES",ESPN (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2485
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL (SAT)" tvg-logo="" group-title="ESPORTES",ESPN BRASIL (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2484
+
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS (SAT)" tvg-logo="" group-title="VARIEDADES",FILM & ARTS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2483
+
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV (SAT)" tvg-logo="" group-title="VARIEDADES",FISH TV (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2482
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK (SAT)" tvg-logo="" group-title="VARIEDADES",FOOD NETWORK (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2481
+
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX (SAT)" tvg-logo="" group-title="FILMES & SERIES",FOX (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2480
+
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE (SAT)" tvg-logo="" group-title="FILMES & SERIES",FOX LIFE (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2479
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS (SAT)" tvg-logo="" group-title="ESPORTES",FOX SPORTS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2478
+
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2 (SAT)" tvg-logo="" group-title="ESPORTES",FOX SPORTS 2 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2477
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX (SAT)" tvg-logo="" group-title="FILMES & SERIES",FX (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2476
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS (SAT)" tvg-logo="" group-title="GLOBO",GLOBO EPTV CAMPINAS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2475
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO (SAT)" tvg-logo="" group-title="GLOBO",GLOBO EPTV RIBEIRAO PRETO (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2474
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS (SAT)" tvg-logo="" group-title="GLOBO",GLOBO EPTV SAO CARLOS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2473
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI (SAT)" tvg-logo="" group-title="GLOBO",GLOBO INTER TV CABUGI (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2472
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS (SAT)" tvg-logo="" group-title="GLOBO",GLOBO MINAS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2471
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE (SAT)" tvg-logo="" group-title="GLOBO",GLOBO NORDESTE (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2470
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ (SAT)" tvg-logo="" group-title="GLOBO",GLOBO RJ (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2469
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV CURITIBA (SAT)" tvg-logo="" group-title="GLOBO",GLOBO RPC TV CURITIBA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2468
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP (SAT)" tvg-logo="" group-title="GLOBO",GLOBO SP (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2467
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA CUIABA (SAT)" tvg-logo="" group-title="GLOBO",GLOBO TV CENTRO AMERICA CUIABA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2466
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU (SAT)" tvg-logo="" group-title="GLOBO",GLOBO TV TEM BAURU (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2465
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SJRP (SAT)" tvg-logo="" group-title="GLOBO",GLOBO TV TEM SJRP (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2464
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA (SAT)" tvg-logo="" group-title="GLOBO",GLOBO TV TEM SOROCABA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2463
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S.J. DOS CAMPOS (SAT)" tvg-logo="" group-title="GLOBO",GLOBO TV VANGUARDA S.J. DOS CAMPOS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2462
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA (SAT)" tvg-logo="" group-title="GLOBO",GLOBO TV VERDES MARES FORTALEZA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2461
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBONEWS (SAT)" tvg-logo="" group-title="NOTICIAS",GLOBONEWS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2460
+
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB (SAT)" tvg-logo="" group-title="INFANTIL",GLOOB (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2459
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT (SAT)" tvg-logo="" group-title="VARIEDADES",GNT (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2458
+
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 (SAT)" tvg-logo="" group-title="DOCUMENTARIOS",H2 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2457
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO (SAT)" tvg-logo="" group-title="FILMES & SERIES",HBO (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2456
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2 (SAT)" tvg-logo="" group-title="FILMES & SERIES",HBO 2 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2451
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY (SAT)" tvg-logo="" group-title="FILMES & SERIES",HBO FAMILY (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2455
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS (SAT)" tvg-logo="" group-title="FILMES & SERIES",HBO PLUS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2454
+
+#EXTINF:-1 tvg-id="HBO PLUS E" tvg-name="HBO PLUS*E (SAT)" tvg-logo="" group-title="FILMES & SERIES",HBO PLUS*E (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2453
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE (SAT)" tvg-logo="" group-title="FILMES & SERIES",HBO SIGNATURE (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2452
+
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I SAT SD (S)" tvg-logo="" group-title="VARIEDADES",I SAT SD (S)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/276
+
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="IDEAL TV (SAT)" tvg-logo="" group-title="VARIEDADES",IDEAL TV (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2449
+
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I-SAT (SAT)" tvg-logo="" group-title="VARIEDADES",I-SAT (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2450
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME (SAT)" tvg-logo="" group-title="VARIEDADES",LIFETIME (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2448
+
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT (SAT)" tvg-logo="" group-title="VARIEDADES",MAIS GLOBOSAT (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2447
+
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat SD (S)" tvg-logo="" group-title="VARIEDADES",Mais Globosat SD (S)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/272
+
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX (SAT)" tvg-logo="" group-title="FILMES & SERIES",MAX (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2446
+
+#EXTINF:-1 tvg-id="MAX PRIME E" tvg-name="MAX PRIME*E (SAT)" tvg-logo="" group-title="FILMES & SERIES",MAX PRIME*E (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2445
+
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP (SAT)" tvg-logo="" group-title="FILMES & SERIES",MAX UP (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2444
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV (SAT)" tvg-logo="" group-title="VARIEDADES",MTV (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2443
+
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW (SAT)" tvg-logo="" group-title="VARIEDADES",MULTISHOW (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2442
+
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS (SAT)" tvg-logo="" group-title="INFANTIL",NATGEO KIDS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2441
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD (SAT)" tvg-logo="" group-title="DOCUMENTARIOS",NATGEO WILD (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2440
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHIC (SAT)" tvg-logo="" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2439
+
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR (SAT)" tvg-logo="" group-title="NOTICIAS",NBR (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2438
+
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK (SAT)" tvg-logo="" group-title="NOTICIAS",NHK (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2437
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR (SAT)" tvg-logo="" group-title="INFANTIL",NICK JR (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2436
+
+#EXTINF:-1 tvg-id="Nick" tvg-name="NICKELODEON (SAT)" tvg-logo="" group-title="INFANTIL",NICKELODEON (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2435
+
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF (SAT)" tvg-logo="" group-title="FILMES & SERIES",OFF (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2434
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT (SAT)" tvg-logo="" group-title="FILMES & SERIES",PARAMOUNT (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2433
+
+#EXTINF:-1 tvg-id="Polishop TV" tvg-name="POLISHOP TV (SAT)" tvg-logo="" group-title="VARIEDADES",POLISHOP TV (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2432
+
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 (SAT)" tvg-logo="" group-title="ESPORTES",PREMIERE 2 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2431
+
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 (SAT)" tvg-logo="" group-title="ESPORTES",PREMIERE 3 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2430
+
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 (SAT)" tvg-logo="" group-title="ESPORTES",PREMIERE 4 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2429
+
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 (SAT)" tvg-logo="" group-title="ESPORTES",PREMIERE 5 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2428
+
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 (SAT)" tvg-logo="" group-title="ESPORTES",PREMIERE 6 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2427
+
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 8 (SAT)" tvg-logo="" group-title="ESPORTES",PREMIERE 8 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2426
+
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="PREMIERE 9 (SAT)" tvg-logo="" group-title="ESPORTES",PREMIERE 9 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2425
+
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES (SAT)" tvg-logo="" group-title="ESPORTES",PREMIERE CLUBES (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2424
+
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL (SAT)" tvg-logo="" group-title="VARIEDADES",PRIME BOX BRAZIL (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2423
+
+#EXTINF:-1 tvg-id="RBI TV" tvg-name="RBI (SAT)" tvg-logo="" group-title="RELIGIOSOS",RBI (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2422
+
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV PORTO ALEGRE (SAT)" tvg-logo="" group-title="TV ABERTA",RBS TV PORTO ALEGRE (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2421
+
+#EXTINF:-1 tvg-id="" tvg-name="RCI (SAT)" tvg-logo="" group-title="RELIGIOSOS",RCI (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2420
+
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS (SAT)" tvg-logo="" group-title="NOTICIAS",RECORD NEWS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2419
+
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV (SAT)" tvg-logo="" group-title="TV ABERTA",RECORDTV (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2418
+
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL (SAT)" tvg-logo="" group-title="TV ABERTA",REDE BRASIL (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2417
+
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA (SAT)" tvg-logo="" group-title="RELIGIOSOS",REDE VIDA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2416
+
+#EXTINF:-1 tvg-id="" tvg-name="RIT (SAT)" tvg-logo="" group-title="RELIGIOSOS",RIT (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2415
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT (SAT)" tvg-logo="" group-title="TV ABERTA",SBT (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2414
+
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE (SAT)" tvg-logo="" group-title="FILMES & SERIES",SPACE (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2413
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV (SAT)" tvg-logo="" group-title="ESPORTES",SPORTV (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2412
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 (SAT)" tvg-logo="" group-title="ESPORTES",SPORTV 2 (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2411
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 ALTERNATIVO (SAT)" tvg-logo="" group-title="ESPORTES",SPORTV 2 ALTERNATIVO (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2410
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL (SAT)" tvg-logo="" group-title="FILMES & SERIES",STUDIO UNIVERSAL (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2409
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS (SAT)" tvg-logo="" group-title="FILMES & SERIES",TBS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2408
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM (SAT)" tvg-logo="" group-title="FILMES & SERIES",TCM (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2407
+
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION (SAT)" tvg-logo="" group-title="FILMES & SERIES",TELECINE ACTION (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2406
+
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT (SAT)" tvg-logo="" group-title="FILMES & SERIES",TELECINE CULT (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2405
+
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN (SAT)" tvg-logo="" group-title="FILMES & SERIES",TELECINE FUN (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2404
+
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA (SAT)" tvg-logo="" group-title="FILMES & SERIES",TELECINE PIPOCA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2403
+
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM (SAT)" tvg-logo="" group-title="FILMES & SERIES",TELECINE PREMIUM (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2402
+
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH (SAT)" tvg-logo="" group-title="FILMES & SERIES",TELECINE TOUCH (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2401
+
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA (SAT)" tvg-logo="" group-title="TV ABERTA",TERRA VIVA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2400
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC (SAT)" tvg-logo="" group-title="DOCUMENTARIOS",TLC (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2398
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT (SAT)" tvg-logo="" group-title="FILMES & SERIES",TNT (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2397
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES (SAT)" tvg-logo="" group-title="FILMES & SERIES",TNT SERIES (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2396
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST (SAT)" tvg-logo="" group-title="INFANTIL",TOONCAST (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2395
+
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV (SAT)" tvg-logo="" group-title="FILMES & SERIES",TRUTV (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2394
+
+#EXTINF:-1 tvg-id="" tvg-name="TV BAHIA (SAT)" tvg-logo="" group-title="TV ABERTA",TV BAHIA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2393
+
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL (SAT)" tvg-logo="" group-title="TV ABERTA",TV BRASIL (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2392
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA (SAT)" tvg-logo="" group-title="TV ABERTA",TV CAMARA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2391
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA (SAT)" tvg-logo="" group-title="TV ABERTA",TV CULTURA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2390
+
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA (SAT)" tvg-logo="" group-title="TV ABERTA",TV ESCOLA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2389
+
+#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO LIBERAL BELEM (SAT)" tvg-logo="" group-title="GLOBO",TV GLOBO LIBERAL BELEM (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2399
+
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV RA TIM BUM (SAT)" tvg-logo="" group-title="INFANTIL",TV RA TIM BUM (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2388
+
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO (SAT)" tvg-logo="" group-title="TV ABERTA",TV SENADO (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2387
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL (SAT)" tvg-logo="" group-title="FILMES & SERIES",UNIVERSAL CHANNEL (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2386
+
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MEGAHITS (SAT)" tvg-logo="" group-title="VARIEDADES",VH1 MEGAHITS (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2385
+
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA (SAT)" tvg-logo="" group-title="VARIEDADES",VIVA (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2384
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL (SAT)" tvg-logo="" group-title="FILMES & SERIES",WARNER CHANNEL (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2383
+
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO (SAT)" tvg-logo="" group-title="VARIEDADES",WOOHOO (SAT)
+http://104.31.115.2:8080/ElsonApp/zpTbvXm9d7/2382
