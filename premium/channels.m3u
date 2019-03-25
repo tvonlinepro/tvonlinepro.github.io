@@ -1,591 +1,391 @@
 #EXTM3U
 
-############## TV ABERTA ##############
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" group-title="FILMES & SERIES",A&E HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/240
 
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globo.png" group-title="CANAIS ABERTOS",GLOBO NORDESTE HD
-http://iptvpro.noads.biz/bobonordeste.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" group-title="FILMES & SERIES",A&E SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/241
 
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globo.png" group-title="CANAIS ABERTOS",GLOBO NORDESTE SD
-http://iptvpro.noads.biz/bobonordeste-sd.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/176
 
-#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globo_rj.png" group-title="CANAIS ABERTOS",GLOBO RJ HD
-http://iptvpro.noads.biz/boborj.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/177
 
-#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globo_rj.png" group-title="CANAIS ABERTOS",GLOBO RJ SD
-http://iptvpro.noads.biz/boborj-sd.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS" group-title="NOTICIAS",BAND NEWS HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/254
 
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globo_sp.png" group-title="CANAIS ABERTOS",GLOBO SP HD
-http://iptvpro.noads.biz/bobosp.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS" group-title="NOTICIAS",BAND NEWS SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/255
 
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globo_sp.png" group-title="CANAIS ABERTOS",GLOBO SP SD
-http://iptvpro.noads.biz/bobosp-sd.m3u8
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND NORDESTE" group-title="TV ABERTA",BAND NORDESTE HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/253
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/record.png" group-title="CANAIS ABERTOS",RECORD HD
-http://iptvpro.noads.biz/recordsp.m3u8
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP" group-title="TV ABERTA",BAND SP SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/252
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sbt.png" group-title="CANAIS ABERTOS",RECORD SD
-http://iptvpro.noads.biz/recordsp-sd.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" group-title="INFANTIL",BOOMERANG HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/148
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sbt.png" group-title="CANAIS ABERTOS",SBT HD
-http://iptvpro.noads.biz/sbt.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" group-title="TV ABERTA",BOOMERANG SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/149
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sbt.png" group-title="CANAIS ABERTOS",SBT SD
-http://iptvpro.noads.biz/sbt-sd.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" group-title="FILMES & SERIES",CINEMAX HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/213
 
-############## DOCUMENTARIOS ##############
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" group-title="FILMES & SERIES",CINEMAX SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/214
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/animal_planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
-http://iptvpro.noads.biz/animalplanet.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE" group-title="FILMES & SERIES",COMBATE HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/210
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/animal_planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
-http://iptvpro.noads.biz/animalplanet-sd.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE" group-title="FILMES & SERIES",COMBATE SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/211
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://iptvpro.noads.biz/discovery.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/174
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
-http://iptvpro.noads.biz/discovery-sd.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/175
 
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_civilization.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION HD
-http://iptvpro.noads.biz/discoverycivilization.m3u8
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY H&H" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/172
 
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_civilization.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION SD
-http://iptvpro.noads.biz/discoverycivilization-sd.m3u8
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY H&H" group-title="DOCUMENTARIOS",DISCOVERY H&H SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/173
 
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_home_health.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
-http://iptvpro.noads.biz/discoveryhomeihealth.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS" group-title="INFANTIL",DISCOVERY KIDS HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/160
 
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_home_health.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH SD
-http://iptvpro.noads.biz/discoveryhomeihealth-sd.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS" group-title="INFANTIL",DISCOVERY KIDS SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/161
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_science.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://iptvpro.noads.biz/discoverysience.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/170
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_science.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE SD
-http://iptvpro.noads.biz/discoverysience-sd.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/171
 
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_theater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
-http://iptvpro.noads.biz/discoverytheater.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL" group-title="INFANTIL",DISNEY CHANNEL HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/158
 
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_theater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER SD
-http://iptvpro.noads.biz/discoverytheater-sd.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL" group-title="INFANTIL",DISNEY CHANNEL SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/159
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_turbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
-http://iptvpro.noads.biz/discoveryturbo.m3u8
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR" group-title="INFANTIL",DISNEY JUNIOR HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/156
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_turbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD
-http://iptvpro.noads.biz/discoveryturbo-sd.m3u8
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR" group-title="INFANTIL",DISNEY JUNIOR SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/157
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_world.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
-http://iptvpro.noads.biz/discoveryworld.m3u8
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" group-title="INFANTIL",DISNEY XD HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/154
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_world.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD SD
-http://iptvpro.noads.biz/discoveryworld-sd.m3u8
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" group-title="INFANTIL",DISNEY XD SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/155
 
-#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/h2.png" group-title="DOCUMENTARIOS",H2 HD
-http://iptvpro.noads.biz/history2.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL" group-title="ESPORTES",ESPN BRASIL HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/206
 
-#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/h2.png" group-title="DOCUMENTARIOS",H2 SD
-http://iptvpro.noads.biz/history2-sd.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL" group-title="ESPORTES",ESPN BRASIL SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/207
 
-#EXTINF:-1 tvg-id="History" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/history.png" group-title="DOCUMENTARIOS",HISTORY HD
-http://iptvpro.noads.biz/history.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="ESPORTES",ESPN HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/208
 
-#EXTINF:-1 tvg-id="History" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/history.png" group-title="DOCUMENTARIOS",HISTORY SD
-http://iptvpro.noads.biz/history-sd.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="ESPORTES",ESPN SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/209
 
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="INVESTIGACAO DISCOVERY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_investigation.png" group-title="DOCUMENTARIOS",ID HD
-http://iptvpro.noads.biz/investigacaodiscovery.m3u8
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2" group-title="ESPORTES",FOX SPORTS 2 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/203
 
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="INVESTIGACAO DISCOVERY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_investigation.png" group-title="DOCUMENTARIOS",ID SD
-http://iptvpro.noads.biz/investigacaodiscovery-sd.m3u8
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2" group-title="ESPORTES",FOX SPORTS 2 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/204
 
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHICS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/natgeo.png" group-title="DOCUMENTARIOS",NATGEO HD
-http://iptvpro.noads.biz/natgeo.m3u8
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS" group-title="ESPORTES",FOX SPORTS HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/202
 
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHICS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/natgeo.png" group-title="DOCUMENTARIOS",NATGEO SD
-http://iptvpro.noads.biz/natgeo-sd.m3u8
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS" group-title="ESPORTES",FOX SPORTS SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/205
 
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/natgeo_wild.png" group-title="DOCUMENTARIOS",NATGEO WILD HD
-http://iptvpro.noads.biz/natgeowild.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="FILMES & SERIES",FX HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/221
 
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/natgeo_wild.png" group-title="DOCUMENTARIOS",NATGEO WILD SD
-http://iptvpro.noads.biz/natgeowild-sd.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="FILMES & SERIES",FX SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/222
 
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tlc.png" group-title="DOCUMENTARIOS",TLC HD
-http://iptvpro.noads.biz/tlc.m3u8
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS" group-title="NOTICIAS",GLOBO NEWS HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/261
 
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tlc.png" group-title="DOCUMENTARIOS",TLC SD
-http://iptvpro.noads.biz/tlc-sd.m3u8
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS" group-title="NOTICIAS",GLOBO NEWS SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/262
 
-############## ESPORTES ##############
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE" group-title="TV ABERTA",GLOBO NORDESTE HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/263
 
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/bandsports.png" group-title="ESPORTES",BAND SPORTS HD
-http://iptvpro.noads.biz/bandsports.m3u8
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE" group-title="TV ABERTA",GLOBO NORDESTE SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/264
 
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/bandsports.png" group-title="ESPORTES",BAND SPORTS SD
-http://iptvpro.noads.biz/bandsports-sd.m3u8
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ" group-title="TV ABERTA",GLOBO RJ HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/267
 
-#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/combate.png" group-title="ESPORTES",COMBATE HD
-http://iptvpro.noads.biz/combate.m3u8
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" group-title="TV ABERTA",GLOBO SP HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/265
 
-#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/combate.png" group-title="ESPORTES",COMBATE SD
-http://iptvpro.noads.biz/combate-sd.m3u8
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" group-title="TV ABERTA",GLOBO SP SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/266
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/espn.png" group-title="ESPORTES",ESPN HD
-http://iptvpro.noads.biz/espn.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" group-title="VARIEDADES",GNT HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/140
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/espn.png" group-title="ESPORTES",ESPN SD
-http://iptvpro.noads.biz/espn-sd.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" group-title="VARIEDADES",GNT SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/141
 
-#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/espn_plus.png" group-title="ESPORTES",ESPN 2 HD
-http://iptvpro.noads.biz/espn2.m3u8
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" group-title="DOCUMENTARIOS",H2 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/166
 
-#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/espn.png" group-title="ESPORTES",ESPN 2 SD
-http://iptvpro.noads.biz/espn2-sd.m3u8
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" group-title="DOCUMENTARIOS",H2 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/167
 
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/espn_brasil.png" group-title="ESPORTES",ESPN BRASIL HD
-http://iptvpro.noads.biz/espnbrasil.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" group-title="FILMES & SERIES",HBO FAMILY HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/237
 
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/espn_brasil.png" group-title="ESPORTES",ESPN BRASIL SD
-http://iptvpro.noads.biz/espnbrasil-sd.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" group-title="FILMES & SERIES",HBO FAMILY SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/238
 
-#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/foxsports.png" group-title="ESPORTES",FOX SPORTS HD
-http://iptvpro.noads.biz/foxsports1.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="FILMES & SERIES",HBO HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/239
 
-#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/foxsports.png" group-title="ESPORTES",FOX SPORTS SD
-http://iptvpro.noads.biz/foxsports1-sd.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" group-title="FILMES & SERIES",HBO PLUS HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/235
 
-#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 HD
-http://iptvpro.noads.biz/foxsports2.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" group-title="FILMES & SERIES",HBO PLUS SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/236
 
-#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 SD
-http://iptvpro.noads.biz/foxsports2-sd.m3u8
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" group-title="FILMES & SERIES",HBO SIGNATURE HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/233
 
-#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE CLUBE HD
-http://iptvpro.noads.biz/premiereclubes.m3u8
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" group-title="FILMES & SERIES",HBO SIGNATURE SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/234
 
-#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE CLUBE SD
-http://iptvpro.noads.biz/premiereclubes-sd.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORY CHANNEL" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/168
 
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 2 HD
-http://iptvpro.noads.biz/premiere2.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORY CHANNEL" group-title="DOCUMENTARIOS",HISTORY CHANNEL SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/169
 
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 2 SD
-http://iptvpro.noads.biz/premiere2-sd.m3u8
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX" group-title="FILMES & SERIES",MEGAPIX HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/248
 
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 3 HD
-http://iptvpro.noads.biz/premiere3.m3u8
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX" group-title="FILMES & SERIES",MEGAPIX SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/249
 
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 3 SD
-http://iptvpro.noads.biz/premiere3-sd.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="VARIEDADES",MTV HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/144
 
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 4 HD
-http://iptvpro.noads.biz/premiere4.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="VARIEDADES",MTV SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/145
 
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 4 SD
-http://iptvpro.noads.biz/premiere4-sd.m3u8
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW" group-title="VARIEDADES",MULTISHOW HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/142
 
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 5 HD
-http://iptvpro.noads.biz/premiere5.m3u8
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW" group-title="VARIEDADES",MULTISHOW SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/143
 
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 5 SD
-http://iptvpro.noads.biz/premiere5-sd.m3u8
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NAT GEO WILD" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/164
 
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 6 HD
-http://iptvpro.noads.biz/premiere6.m3u8
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NAT GEO WILD" group-title="DOCUMENTARIOS",NAT GEO WILD SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/165
 
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 6 SD
-http://iptvpro.noads.biz/premiere6-sd.m3u8
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHIC" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/162
 
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 7 HD
-http://iptvpro.noads.biz/premiere7.m3u8
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHIC" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/163
 
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 7 SD
-http://iptvpro.noads.biz/premiere7-sd.m3u8
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR" group-title="INFANTIL",NICK JR HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/152
 
-#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 8 HD
-http://iptvpro.noads.biz/premiere8.m3u8
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR" group-title="INFANTIL",NICK JR SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/153
 
-#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 8 SD
-http://iptvpro.noads.biz/premiere8-sd.m3u8
+#EXTINF:-1 tvg-id="Nick" tvg-name="NICKLOEDEON" group-title="INFANTIL",NICKLOEDEON HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/150
 
-#EXTINF:-1 tvg-id="Premiere 9" tvg-name="PREMIERE 9" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 9 HD
-http://iptvpro.noads.biz/premiere9.m3u8
+#EXTINF:-1 tvg-id="Nick" tvg-name="NICKLOEDEON" group-title="INFANTIL",NICKLOEDEON SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/151
 
-#EXTINF:-1 tvg-id="Premiere 9" tvg-name="PREMIERE 9" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 9 SD
-http://iptvpro.noads.biz/premiere9-sd.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT" group-title="FILMES & SERIES",PARAMOUNT SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/212
 
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sportv.png" group-title="ESPORTES",SPORTV HD
-http://iptvpro.noads.biz/sportv1.m3u8
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE 1" group-title="ESPORTES",PREMIERE 1 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/194
 
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sportv.png" group-title="ESPORTES",SPORTV SD
-http://iptvpro.noads.biz/sportv1-sd.m3u8
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE 1" group-title="ESPORTES",PREMIERE 1 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/195
 
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sportv.png" group-title="ESPORTES",SPORTV 2 HD
-http://iptvpro.noads.biz/sportv2.m3u8
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2" group-title="ESPORTES",PREMIERE 2 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/192
 
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sportv.png" group-title="ESPORTES",SPORTV 2 SD
-http://iptvpro.noads.biz/sportv2-sd.m3u8
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2" group-title="ESPORTES",PREMIERE 2 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/193
 
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sportv.png" group-title="ESPORTES",SPORTV 3 HD
-http://iptvpro.noads.biz/sportv3.m3u8
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" group-title="ESPORTES",PREMIERE 3 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/190
 
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sportv.png" group-title="ESPORTES",SPORTV 3 SD
-http://iptvpro.noads.biz/sportv3-sd.m3u8
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" group-title="ESPORTES",PREMIERE 3 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/191
 
-############## FILMES & SERIES ##############
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" group-title="ESPORTES",PREMIERE 4 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/188
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/ae.png" group-title="FILMES & SERIES",A&E HD
-http://iptvpro.noads.biz/aie.m3u8
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" group-title="ESPORTES",PREMIERE 4 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/189
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/ae.png" group-title="FILMES & SERIES",A&E SD
-http://iptvpro.noads.biz/aie-sd.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5" group-title="ESPORTES",PREMIERE 5 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/186
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/amc.png" group-title="FILMES & SERIES",AMC HD
-http://iptvpro.noads.biz/amc.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5" group-title="ESPORTES",PREMIERE 5 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/187
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/amc.png" group-title="FILMES & SERIES",AMC SD
-http://iptvpro.noads.biz/amc-sd.m3u8
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" group-title="ESPORTES",PREMIERE 6 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/184
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/axn.png" group-title="FILMES & SERIES",AXN HD
-http://iptvpro.noads.biz/axn.m3u8
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" group-title="ESPORTES",PREMIERE 6 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/185
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/axn.png" group-title="FILMES & SERIES",AXN SD
-http://iptvpro.noads.biz/axn-sd.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" group-title="ESPORTES",PREMIERE 7 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/182
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/cinemax.png" group-title="FILMES & SERIES",CINEMAX HD
-http://iptvpro.noads.biz/cinemax.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" group-title="ESPORTES",PREMIERE 7 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/183
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/cinemax.png" group-title="FILMES & SERIES",CINEMAX SD
-http://iptvpro.noads.biz/cinemax-sd.m3u8
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8" group-title="ESPORTES",PREMIERE 8 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/180
 
-#EXTINF:-1 tvg-id="Fox" tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox.png" group-title="FILMES & SERIES",FOX HD
-http://iptvpro.noads.biz/fox.m3u8
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8" group-title="ESPORTES",PREMIERE 8 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/181
 
-#EXTINF:-1 tvg-id="Fox" tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox.png" group-title="FILMES & SERIES",FOX SD
-http://iptvpro.noads.biz/fox-sd.m3u8
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES" group-title="ESPORTES",PREMIERE CLUBES HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/178
 
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox_life.png" group-title="FILMES & SERIES",FOX LIFE HD
-http://iptvpro.noads.biz/foxlife.m3u8
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES" group-title="ESPORTES",PREMIERE CLUBES SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/179
 
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox_life.png" group-title="FILMES & SERIES",FOX LIFE SD
-http://iptvpro.noads.biz/foxlife-sd.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD NORDESTE" group-title="TV ABERTA",RECORD NORDESTE HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/256
 
-#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX PREMIUM 1" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox_premium.png" group-title="FILMES & SERIES",FOX PREMIUM 1 HD
-http://iptvpro.noads.biz/foxpremium1.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP" group-title="TV ABERTA",RECORD SP HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/257
 
-#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX PREMIUM 1" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox_premium.png" group-title="FILMES & SERIES",FOX PREMIUM 1 SD
-http://iptvpro.noads.biz/foxpremium1-sd.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP" group-title="TV ABERTA",RECORD SP SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/258
 
-#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox_premium.png" group-title="FILMES & SERIES",FOX PREMIUM 2 HD
-http://iptvpro.noads.biz/foxpremium2.m3u8
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV" group-title="TV ABERTA",REDE TV HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/250
 
-#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox_premium.png" group-title="FILMES & SERIES",FOX PREMIUM 2 SD
-http://iptvpro.noads.biz/foxpremium2-sd.m3u8
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV" group-title="TV ABERTA",REDE TV SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/251
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fx.png" group-title="FILMES & SERIES",FX HD
-http://iptvpro.noads.biz/fx.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="TV ABERTA",SBT HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/259
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fx.png" group-title="FILMES & SERIES",FX SD
-http://iptvpro.noads.biz/fx-sd.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="TV ABERTA",SBT SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/260
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo.png" group-title="FILMES & SERIES",HBO HD
-http://iptvpro.noads.biz/hbo.m3u8
+#EXTINF:-1 tvg-id="Sony" tvg-name="SONY" group-title="FILMES & SERIES",SONY HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/246
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo.png" group-title="FILMES & SERIES",HBO SD
-http://iptvpro.noads.biz/hbo-sd.m3u8
+#EXTINF:-1 tvg-id="Sony" tvg-name="SONY" group-title="FILMES & SERIES",SONY SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/247
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo2.png" group-title="FILMES & SERIES",HBO 2 HD
-http://iptvpro.noads.biz/hbo2.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE" group-title="FILMES & SERIES",SPACE HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/219
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo2.png" group-title="FILMES & SERIES",HBO 2 SD
-http://iptvpro.noads.biz/hbo2-sd.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE" group-title="FILMES & SERIES",SPACE SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/220
 
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo_family.png" group-title="FILMES & SERIES",HBO FAMILY HD
-http://iptvpro.noads.biz/hbofamily.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV" group-title="ESPORTES",SPORTV HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/196
 
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo_family.png" group-title="FILMES & SERIES",HBO FAMILY SD
-http://iptvpro.noads.biz/hbofamily-sd.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV" group-title="ESPORTES",SPORTV SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/201
 
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo_plus.png" group-title="FILMES & SERIES",HBO PLUS HD
-http://iptvpro.noads.biz/hboplus.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV2" group-title="ESPORTES",SPORTV2 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/199
 
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo_plus.png" group-title="FILMES & SERIES",HBO PLUS SD
-http://iptvpro.noads.biz/hboplus-sd.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV2" group-title="ESPORTES",SPORTV2 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/200
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo_signature.png" group-title="FILMES & SERIES",HBO SIGNATURE HD
-http://iptvpro.noads.biz/hbosignature.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV3" group-title="ESPORTES",SPORTV3 HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/197
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo_signature.png" group-title="FILMES & SERIES",HBO SIGNATURE SD
-http://iptvpro.noads.biz/hbosignature-sd.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV3" group-title="ESPORTES",SPORTV3 SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/198
 
-#EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/max.png" group-title="FILMES & SERIES",MAX HD
-http://iptvpro.noads.biz/max.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL" group-title="FILMES & SERIES",STUDIO UNIVERSAL HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/244
 
-#EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/max.png" group-title="FILMES & SERIES",MAX SD
-http://iptvpro.noads.biz/max-sd.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL" group-title="FILMES & SERIES",STUDIO UNIVERSAL SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/245
 
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/max_prime.png" group-title="FILMES & SERIES",MAX PRIME HD
-http://iptvpro.noads.biz/maxprime.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY" group-title="FILMES & SERIES",SYFY HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/223
 
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/max_prime.png" group-title="FILMES & SERIES",MAX PRIME SD
-http://iptvpro.noads.biz/maxprime-sd.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY" group-title="FILMES & SERIES",SYFY SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/224
 
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/max_up.png" group-title="FILMES & SERIES",MAX UP HD
-http://iptvpro.noads.biz/maxup.m3u8
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELE CINE ACTION" group-title="FILMES & SERIES",TELE CINE ACTION HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/229
 
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/max_up.png" group-title="FILMES & SERIES",MAX UP SD
-http://iptvpro.noads.biz/maxup-sd.m3u8
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELE CINE ACTION" group-title="FILMES & SERIES",TELE CINE ACTION SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/230
 
-#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/megapix.png" group-title="FILMES & SERIES",MEGAPIX HD
-http://iptvpro.noads.biz/megapix.m3u8
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELE CINE CULT" group-title="FILMES & SERIES",TELE CINE CULT HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/227
 
-#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/megapix.png" group-title="FILMES & SERIES",MEGAPIX SD
-http://iptvpro.noads.biz/megapix-sd.m3u8
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELE CINE CULT" group-title="FILMES & SERIES",TELE CINE CULT SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/228
 
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/paramount.png" group-title="FILMES & SERIES",PARAMOUNT HD
-http://iptvpro.noads.biz/paramount.m3u8
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELE CINE PIPOCA" group-title="FILMES & SERIES",TELE CINE PIPOCA HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/231
 
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/paramount.png" group-title="FILMES & SERIES",PARAMOUNT SD
-http://iptvpro.noads.biz/paramount-sd.m3u8
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELE CINE PIPOCA" group-title="FILMES & SERIES",TELE CINE PIPOCA SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/232
 
-#EXTINF:-1 tvg-id="Sony" tvg-name="SONY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sony.png" group-title="FILMES & SERIES",SONY HD
-http://iptvpro.noads.biz/sony.m3u8
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELE CINE PREMIUM" group-title="FILMES & SERIES",TELE CINE PREMIUM HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/225
 
-#EXTINF:-1 tvg-id="Sony" tvg-name="SONY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sony.png" group-title="FILMES & SERIES",SONY SD
-http://iptvpro.noads.biz/sony-sd.m3u8
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELE CINE PREMIUM" group-title="FILMES & SERIES",TELE CINE PREMIUM SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/226
 
-#EXTINF:-1 tvg-id="Space" tvg-name="SPACE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/space.png" group-title="FILMES & SERIES",SPACE HD
-http://iptvpro.noads.biz/space.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" group-title="FILMES & SERIES",TNT HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/217
 
-#EXTINF:-1 tvg-id="Space" tvg-name="SPACE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/space.png" group-title="FILMES & SERIES",SPACE SD
-http://iptvpro.noads.biz/space-sd.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" group-title="FILMES & SERIES",TNT SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/218
 
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/studio_universal.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL HD
-http://iptvpro.noads.biz/studiouniversal.m3u8
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" group-title="FILMES & SERIES",TNT SERIES HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/215
 
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/studio_universal.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL SD
-http://iptvpro.noads.biz/studiouniversal-sd.m3u8
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" group-title="FILMES & SERIES",TNT SERIES SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/216
 
-#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/syfy.png" group-title="FILMES & SERIES",SYFY HD
-http://iptvpro.noads.biz/syfy.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOOM CAST" group-title="INFANTIL",TOOMCAST HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/146
 
-#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/syfy.png" group-title="FILMES & SERIES",SYFY SD
-http://iptvpro.noads.biz/syfy-sd.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOOM CAST" group-title="INFANTIL",TOOMCAST SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/147
 
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tcm.png" group-title="FILMES & SERIES",TCM HD
-http://iptvpro.noads.biz/tcm.m3u8
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA" group-title="VARIEDADES",VIVA HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/138
 
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tcm.png" group-title="FILMES & SERIES",TCM SD
-http://iptvpro.noads.biz/tcm-sd.m3u8
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA" group-title="VARIEDADES",VIVA SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/139
 
-#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TC ACTION" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_action.png" group-title="FILMES & SERIES",TELECINE ACTION HD
-http://iptvpro.noads.biz/telecineaction.m3u8
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL" group-title="FILMES & SERIES",WARNER CHANNEL HD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/242
 
-#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TC ACTION" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_action.png" group-title="FILMES & SERIES",TELECINE ACTION SD
-http://iptvpro.noads.biz/telecineaction-sd.m3u8
-
-#EXTINF:-1 tvg-id="TC CULT" tvg-name="TC CULT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_cult.png" group-title="FILMES & SERIES",TELECINE CULT HD
-http://iptvpro.noads.biz/telecinecult.m3u8
-
-#EXTINF:-1 tvg-id="TC CULT" tvg-name="TC CULT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_cult.png" group-title="FILMES & SERIES",TELECINE CULT SD
-http://iptvpro.noads.biz/telecinecult-sd.m3u8
-
-#EXTINF:-1 tvg-id="TC FUN" tvg-name="TC FUN" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_fun.png" group-title="FILMES & SERIES",TELECINE FUN HD
-http://iptvpro.noads.biz/telecinefun.m3u8
-
-#EXTINF:-1 tvg-id="TC FUN" tvg-name="TC FUN" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_fun.png" group-title="FILMES & SERIES",TELECINE FUN SD
-http://iptvpro.noads.biz/telecinefun-sd.m3u8
-
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TC PIPOCA" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_pipoca.png" group-title="FILMES & SERIES",TELECINE PIPOCA HD
-http://iptvpro.noads.biz/telecinepipoca.m3u8
-
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TC PIPOCA" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_pipoca.png" group-title="FILMES & SERIES",TELECINE PIPOCA SD
-http://iptvpro.noads.biz/telecinepipoca-sd.m3u8
-
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TC PREMIUM" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_premium.png" group-title="FILMES & SERIES",TELECINE PREMIUM HD
-http://iptvpro.noads.biz/telecinepremium.m3u8
-
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TC PREMIUM" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_premium.png" group-title="FILMES & SERIES",TELECINE PREMIUM SD
-http://iptvpro.noads.biz/telecinepremium-sd.m3u8
-
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TC TOUCH" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_touch.png" group-title="FILMES & SERIES",TELECINE TOUCH HD
-http://iptvpro.noads.biz/telecinetouch.m3u8
-
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TC TOUCH" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_touch.png" group-title="FILMES & SERIES",TELECINE TOUCH SD
-http://iptvpro.noads.biz/telecinetouch-sd.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tnt.png" group-title="FILMES & SERIES",TNT HD
-http://iptvpro.noads.biz/tnt.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tnt.png" group-title="FILMES & SERIES",TNT SD
-http://iptvpro.noads.biz/tnt-sd.m3u8
-
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tnt_series.png" group-title="FILMES & SERIES",TNT SÉRIES HD
-http://iptvpro.noads.biz/tntseries.m3u8
-
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tnt_series.png" group-title="FILMES & SERIES",TNT SÉRIES SD
-http://iptvpro.noads.biz/tntseries-sd.m3u8
-
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/universal_channel.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
-http://iptvpro.noads.biz/universal.m3u8
-
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/universal_channel.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL SD
-http://iptvpro.noads.biz/universal-sd.m3u8
-
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/warner_channel.png" group-title="FILMES & SERIES",WARNER HD
-http://iptvpro.noads.biz/warner.m3u8
-
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/warner_channel.png" group-title="FILMES & SERIES",WARNER SD
-http://iptvpro.noads.biz/warner-sd.m3u8
-
-############## INFANTIL ##############
-
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/boomerang.png" group-title="INFANTIL",BOOMERANG HD
-http://iptvpro.noads.biz/boomerang.m3u8
-
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/boomerang.png" group-title="INFANTIL",BOOMERANG SD
-http://iptvpro.noads.biz/boomerang-sd.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK HD
-http://iptvpro.noads.biz/cartoon.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK SD
-http://iptvpro.noads.biz/cartoon-sd.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_kids.png" group-title="INFANTIL",DISCOVERY KIDS HD
-http://iptvpro.noads.biz/discoverykids.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_kids.png" group-title="INFANTIL",DISCOVERY KIDS SD
-http://iptvpro.noads.biz/discoverykids-sd.m3u8
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/disney_channel.png" group-title="INFANTIL",DISNEY CHANNEL HD
-http://iptvpro.noads.biz/disney.m3u8
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/disney_channel.png" group-title="INFANTIL",DISNEY CHANNEL SD
-http://iptvpro.noads.biz/disney-sd.m3u8
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/disney_junior.png" group-title="INFANTIL",DISNEY JUNIOR HD
-http://iptvpro.noads.biz/disneyjunior.m3u8
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/disney_junior.png" group-title="INFANTIL",DISNEY JUNIOR SD
-http://iptvpro.noads.biz/disneyjunior-sd.m3u8
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/disney_xd.png" group-title="INFANTIL",DISNEY XD HD
-http://iptvpro.noads.biz/disneyxd.m3u8
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/disney_xd.png" group-title="INFANTIL",DISNEY XD SD
-http://iptvpro.noads.biz/disneyxd-sd.m3u8
-
-#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/gloob.png" group-title="INFANTIL",GLOOB HD
-http://iptvpro.noads.biz/gloob.m3u8
-
-#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/gloob.png" group-title="INFANTIL",GLOOB SD
-http://iptvpro.noads.biz/gloob-sd.m3u8
-
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/nick_jr.png" group-title="INFANTIL",NICK JR HD
-http://iptvpro.noads.biz/nickjr.m3u8
-
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/nick_jr.png" group-title="INFANTIL",NICK JR SD
-http://iptvpro.noads.biz/nickjr-sd.m3u8
-
-#EXTINF:-1 tvg-id="Nick" tvg-name="NICK" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/nick.png" group-title="INFANTIL",NICKELODEON HD
-http://iptvpro.noads.biz/nick.m3u8
-
-#EXTINF:-1 tvg-id="Nick" tvg-name="NICK" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/nick.png" group-title="INFANTIL",NICKELODEON SD
-http://iptvpro.noads.biz/nick-sd.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tooncast.png" group-title="INFANTIL",TOONCAST HD
-http://iptvpro.noads.biz/tooncast.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tooncast.png" group-title="INFANTIL",TOONCAST SD
-http://iptvpro.noads.biz/tooncast-sd.m3u8
-
-############## VARIEDADES ##############
-
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/arte1.png" group-title="VARIEDADES",ARTE 1 HD
-http://iptvpro.noads.biz/arte1.m3u8
-
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/arte1.png" group-title="VARIEDADES",ARTE 1 SD
-http://iptvpro.noads.biz/arte1-sd.m3u8
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/bis.png" group-title="VARIEDADES",BIS HD
-http://iptvpro.noads.biz/bis.m3u8
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/bis.png" group-title="VARIEDADES",BIS SD
-http://iptvpro.noads.biz/bis-sd.m3u8
-
-#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/off.png" group-title="VARIEDADES",CANAL OFF HD
-http://iptvpro.noads.biz/off.m3u8
-
-#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/off.png" group-title="VARIEDADES",CANAL OFF SD
-http://iptvpro.noads.biz/off-sd.m3u8
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/comedy_central.png" group-title="VARIEDADES",COMEDY CENTRAL HD
-http://iptvpro.noads.biz/comedycentral.m3u8
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/comedy_central.png" group-title="VARIEDADES",COMEDY CENTRAL SD
-http://iptvpro.noads.biz/comedycentral-sd.m3u8
-
-#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/curta!.jpg" group-title="VARIEDADES",CURTA! HD
-http://iptvpro.noads.biz/curta.m3u8
-
-#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/curta!.jpg" group-title="VARIEDADES",CURTA! SD
-http://iptvpro.noads.biz/curta-sd.m3u8
-
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fishtv.png" group-title="VARIEDADES",FISH TV SD
-http://iptvpro.noads.biz/fishtv.m3u8
-
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fishtv.png" group-title="VARIEDADES",FISH TV SD
-http://iptvpro.noads.biz/fishtv-sd.m3u8
-
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/gnt.png" group-title="VARIEDADES",GNT HD
-http://iptvpro.noads.biz/gnt.m3u8
-
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/gnt.png" group-title="VARIEDADES",GNT SD
-http://iptvpro.noads.biz/gnt-sd.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/lifetime.png" group-title="VARIEDADES",LIFETIME HD
-http://iptvpro.noads.biz/lifetime.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/lifetime.png" group-title="VARIEDADES",LIFETIME SD
-http://iptvpro.noads.biz/lifetime-sd.m3u8
-
-#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/mais_globosat.png" group-title="VARIEDADES",MAIS GLOBOSAT HD
-http://iptvpro.noads.biz/maisbobosat.m3u8
-
-#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/mais_globosat.png" group-title="VARIEDADES",MAIS GLOBOSAT SD
-http://iptvpro.noads.biz/maisbobosat-sd.m3u8
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/mtv.png" group-title="VARIEDADES",MTV HD
-http://iptvpro.noads.biz/mtv.m3u8
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/mtv.png" group-title="VARIEDADES",MTV SD
-http://iptvpro.noads.biz/mtv-sd.m3u8
-
-#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/multishow.png" group-title="VARIEDADES",MULTISHOW HD
-http://iptvpro.noads.biz/multishow.m3u8
-
-#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/multishow.png" group-title="VARIEDADES",MULTISHOW SD
-http://iptvpro.noads.biz/multishow-sd.m3u8
-
-#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/viva.png" group-title="VARIEDADES",VIVA HD
-http://iptvpro.noads.biz/viva.m3u8
-
-#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/viva.png" group-title="VARIEDADES",VIVA SD
-http://iptvpro.noads.biz/viva-sd.m3u8
-
-############## NOTICIAS ##############
-
-#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/band_news.png" group-title="NOTICIAS",BAND NEWS HD
-http://iptvpro.noads.biz/bandnews.m3u8
-
-#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/band_news.png" group-title="NOTICIAS",BAND NEWS SD
-http://iptvpro.noads.biz/bandnews-sd.m3u8
-
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globonews.png" group-title="NOTICIAS",GLOBO NEWS HD
-http://iptvpro.noads.biz/globonews.m3u8
-
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globonews.png" group-title="NOTICIAS",GLOBO NEWS SD
-http://iptvpro.noads.biz/globonews-sd.m3u8
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL" group-title="FILMES & SERIES",WARNER CHANNEL SD
+http://paineltvfull.ml:25461/PlayTVoNline/spsp2497/243
