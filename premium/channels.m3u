@@ -1,303 +1,364 @@
 #EXTM3U
 
-############## TV ABERTA ##############
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",H2 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32807
 
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globo.png" group-title="CANAIS ABERTOS",GLOBO NORDESTE
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/bobonordeste.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",HBO HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32806
 
-#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globo_rj.png" group-title="CANAIS ABERTOS",GLOBO RJ
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/boborj.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",HBO2 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32805
 
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globo_sp.png" group-title="CANAIS ABERTOS",GLOBO SP
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/bobosp.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",HBO FAMILY HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32804
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/record.png" group-title="CANAIS ABERTOS",RECORD
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/recordsp.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",HBO PLUS HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32803
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sbt.png" group-title="CANAIS ABERTOS",SBT
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/sbt.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",HBO SIGNATURE HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32802
 
-############## DOCUMENTARIOS ##############
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",FX HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32801
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/animal_planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/animalplanet.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="TV ABERTA",GLOBO SP HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32800
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/discovery.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",GNT HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32799
 
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_civilization.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/discoverycivilization.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",MAIS GLOBOSAT HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32798
 
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_home_health.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/discoveryhomeihealth.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",MAX HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32797
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_science.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/discoverysience.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",MAX PRIME HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32796
 
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_theater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/discoverytheater.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",MAX UP HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32795
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_turbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/discoveryturbo.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",MEGAPIX HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32794
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_world.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/discoveryworld.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",MULTISHOW HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32793
 
-#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/h2.png" group-title="DOCUMENTARIOS",H2
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/history2.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",OFF HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32792
 
-#EXTINF:-1 tvg-id="History" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/history.png" group-title="DOCUMENTARIOS",HISTORY
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/history.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",PARAMOUNT HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32791
 
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="INVESTIGACAO DISCOVERY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_investigation.png" group-title="DOCUMENTARIOS",ID
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/investigacaodiscovery.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",PREMIERE 2 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32790
 
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHICS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/natgeo.png" group-title="DOCUMENTARIOS",NATGEO
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/natgeo.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",PREMIERE 3 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32789
 
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/natgeo_wild.png" group-title="DOCUMENTARIOS",NATGEO WILD
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/natgeowild.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",PREMIERE 4 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32788
 
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tlc.png" group-title="DOCUMENTARIOS",TLC
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/tlc.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",PREMIERE 5 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32787
 
-############## ESPORTES ##############
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",PREMIERE 6 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32786
 
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/bandsports.png" group-title="ESPORTES",BAND SPORTS
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/bandsports.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",PREMIERE 7 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32785
 
-#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/combate.png" group-title="ESPORTES",COMBATE
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/combate.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",PREMIERE CLUBES HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32784
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/espn.png" group-title="ESPORTES",ESPN
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/espn.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",PRIME BOX BRASIL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32783
 
-#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/espn_plus.png" group-title="ESPORTES",ESPN 2
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/espn2.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",RÁ TIM BUM HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32782
 
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/espn_brasil.png" group-title="ESPORTES",ESPN BRASIL
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/espnbrasil.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="TV ABERTA",RECORD HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32781
 
-#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/foxsports.png" group-title="ESPORTES",FOX SPORTS
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/foxsports1.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",SYFY HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32780
 
-#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/foxsports2.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",TNT HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32779
 
-#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE CLUBE
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/premiereclubes.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",WOOHOO HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32778
 
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 2
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/premiere2.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",ZOOMOO HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32777
 
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 3
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/premiere3.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",A&E HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32776
 
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 4
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/premiere4.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",AMC HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32775
 
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 5
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/premiere5.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="TV ABERTA",SBT HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32774
 
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 6
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/premiere6.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",SHOPTIME
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32773
 
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 7
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/premiere7.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",Sony HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32772
 
-#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 8
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/premiere8.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",SPACE HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32771
 
-#EXTINF:-1 tvg-id="Premiere 9" tvg-name="PREMIERE 9" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 9
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/premiere9.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",TBS HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32770
 
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sportv.png" group-title="ESPORTES",SPORTV
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/sportv1.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",TCM HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32769
 
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sportv.png" group-title="ESPORTES",SPORTV 2
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/sportv2.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",TELECINE ACTION HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32768
 
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sportv.png" group-title="ESPORTES",SPORTV 3
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/sportv3.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",TELECINE CULT HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32767
 
-############## FILMES & SERIES ##############
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",TELECINE FUN HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32766
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/ae.png" group-title="FILMES & SERIES",A&E
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/aie.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",TELECINE PIPOCA HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32765
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/amc.png" group-title="FILMES & SERIES",AMC
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/amc.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",TELECINE PREMIUM HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32764
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/axn.png" group-title="FILMES & SERIES",AXN
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/axn.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",TELECINE TOUCH HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32763
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/cinemax.png" group-title="FILMES & SERIES",CINEMAX
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/cinemax.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",TLC HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32762
 
-#EXTINF:-1 tvg-id="Fox" tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox.png" group-title="FILMES & SERIES",FOX
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/fox.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",STUDIO UNIVERSAL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32761
 
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox_life.png" group-title="FILMES & SERIES",FOX LIFE
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/foxlife.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",WARNER CHANNEL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32760
 
-#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX PREMIUM 1" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox_premium.png" group-title="FILMES & SERIES",FOX PREMIUM 1
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/foxpremium1.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",CINEMAX HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32759
 
-#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fox_premium.png" group-title="FILMES & SERIES",FOX PREMIUM 2
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/foxpremium2.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",COMBATE HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32758
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/fx.png" group-title="FILMES & SERIES",FX
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/fx.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIDADES",COMEDY CENTRAL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32757
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo.png" group-title="FILMES & SERIES",HBO
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/hbo.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",FOX HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32756
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo2.png" group-title="FILMES & SERIES",HBO 2
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/hbo2.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",FOX LIFE HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32755
 
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo_family.png" group-title="FILMES & SERIES",HBO FAMILY
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/hbofamily.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",Fox Premium 2 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32754
 
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo_plus.png" group-title="FILMES & SERIES",HBO PLUS
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/hboplus.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",FOX PREMIUM HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32753
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/hbo_signature.png" group-title="FILMES & SERIES",HBO SIGNATURE
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/hbosignature.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",AXN HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32752
 
-#EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/max.png" group-title="FILMES & SERIES",MAX
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/max.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32751
 
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/max_prime.png" group-title="FILMES & SERIES",MAX PRIME
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/maxprime.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="NOTICIAS",BAND NEWS HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32749
 
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/max_up.png" group-title="FILMES & SERIES",MAX UP
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/maxup.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="NOTICIAS",GLOBO NEWS HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32748
 
-#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/megapix.png" group-title="FILMES & SERIES",MEGAPIX
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/megapix.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="NOTICIAS",RECORD NEWS HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32747
 
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/paramount.png" group-title="FILMES & SERIES",PARAMOUNT
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/paramount.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="NOTICIAS",CNN INTERNACIONAL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32746
 
-#EXTINF:-1 tvg-id="Sony" tvg-name="SONY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/sony.png" group-title="FILMES & SERIES",SONY
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/sony.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",BAND SPORTS HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32744
 
-#EXTINF:-1 tvg-id="Space" tvg-name="SPACE" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/space.png" group-title="FILMES & SERIES",SPACE
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/space.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",SPORTV HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32743
 
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/studio_universal.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/studiouniversal.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",SPORTV 2 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32742
 
-#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/syfy.png" group-title="FILMES & SERIES",SYFY
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/syfy.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",SPORT TV 3 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32741
 
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tcm.png" group-title="FILMES & SERIES",TCM
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/tcm.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",FOX SPORTS HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32740
 
-#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TC ACTION" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_action.png" group-title="FILMES & SERIES",TELECINE ACTION
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/telecineaction.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",FOX SPORTS 2 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32739
 
-#EXTINF:-1 tvg-id="TC CULT" tvg-name="TC CULT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_cult.png" group-title="FILMES & SERIES",TELECINE CULT
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/telecinecult.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",ESPN HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32738
 
-#EXTINF:-1 tvg-id="TC FUN" tvg-name="TC FUN" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_fun.png" group-title="FILMES & SERIES",TELECINE FUN
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/telecinefun.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",ESPN BR HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32737
 
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TC PIPOCA" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_pipoca.png" group-title="FILMES & SERIES",TELECINE PIPOCA
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/telecinepipoca.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="ESPORTES",ESPN INTERNACIONAL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32736
 
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TC PREMIUM" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_premium.png" group-title="FILMES & SERIES",TELECINE PREMIUM
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/telecinepremium.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",TOONCAST HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32734
 
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TC TOUCH" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tc_touch.png" group-title="FILMES & SERIES",TELECINE TOUCH
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/telecinetouch.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",BOOMERANG HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32733
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tnt.png" group-title="FILMES & SERIES",TNT
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/tnt.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",CARTOON HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32732
 
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tnt_series.png" group-title="FILMES & SERIES",TNT SÉRIES
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/tntseries.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",DISNEY CHANNEL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32731
 
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/universal_channel.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/universal.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",DISCOVERY KIDS HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32730
 
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/warner_channel.png" group-title="FILMES & SERIES",WARNER
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/warner.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",DISNEY JUNIOR HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32729
 
-############## INFANTIL ##############
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",DISNEY XD HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32728
 
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/boomerang.png" group-title="INFANTIL",BOOMERANG
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/boomerang.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",FUTURA HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32727
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/cartoon.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",NICK JR HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32726
 
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/discovery_kids.png" group-title="INFANTIL",DISCOVERY KIDS
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/discoverykids.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",NICK HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32725
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/disney_channel.png" group-title="INFANTIL",DISNEY CHANNEL
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/disney.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="INFANTIL",NATGEO KIDS HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32724
 
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/disney_junior.png" group-title="INFANTIL",DISNEY JUNIOR
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/disneyjunior.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",HISTORY HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32722
 
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/disney_xd.png" group-title="INFANTIL",DISNEY XD
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/disneyxd.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",NATGEO HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32721
 
-#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/gloob.png" group-title="INFANTIL",GLOOB
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/gloob.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",NATGEO WILD HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32720
 
-#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="National Geographic Kids" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/natgeo_kids.png" group-title="INFANTIL",NATGEO KIDS
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/natgeokids.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32719
 
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/nick_jr.png" group-title="INFANTIL",NICK JR
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/nickjr.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="TV ABERTA",CULTURA HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32718
 
-#EXTINF:-1 tvg-id="Nick" tvg-name="NICK" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/nick.png" group-title="INFANTIL",NICKELODEON
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/nick.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32717
 
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/tooncast.png" group-title="INFANTIL",TOONCAST
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/tooncast.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32716
 
-############## VARIEDADES ##############
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32715
 
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/arte1.png" group-title="VARIEDADES",ARTE 1
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/arte1.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",DISCOVERY HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32714
 
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/bis.png" group-title="VARIEDADES",BIS
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/bis.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32713
 
-#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/off.png" group-title="VARIEDADES",CANAL OFF
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/off.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",DISCOVERY THEATHER HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32712
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/comedy_central.png" group-title="VARIEDADES",COMEDY CENTRAL
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/comedycentral.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32711
 
-#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/curta!.jpg" group-title="VARIEDADES",CURTA!
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/curta.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",MTV HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32709
 
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/gnt.png" group-title="VARIEDADES",GNT
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/gnt.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",MTV LIVE HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32708
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/lifetime.png" group-title="VARIEDADES",LIFETIME
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/lifetime.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",MUSIC BOX BRASIL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32707
 
-#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/mais_globosat.png" group-title="VARIEDADES",MAIS GLOBOSAT
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/maisbobosat.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",VH1 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32706
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/mtv.png" group-title="VARIEDADES",MTV
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/mtv.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",VH1 MEGA HITS HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32705
 
-#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/multishow.png" group-title="VARIEDADES",MULTISHOW
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/multishow.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",ARTE1
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32703
 
-#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/viva.png" group-title="VARIEDADES",VIVA
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/viva.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",RIT
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32702
 
-############## NOTICIAS ##############
+#EXTINF:-1 tvg-id="" group-title="FILMES & SERIES",BIS HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32701
 
-#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/band_news.png" group-title="NOTICIAS",BAND NEWS
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/bandnews.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",TRAVEL BOX BRASIL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32700
 
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS" tvg-logo="https://raw.githubusercontent.com/tvonlinepro/tvonlinepro.github.io/master/logos/globonews.png" group-title="NOTICIAS",GLOBO NEWS
-https://d3c27qo2tn4y5d.cloudfront.net//hls1/globonews.m3u8|Referer=http://www.redemice.me/
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",TV BRASIL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32699
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",TV CAMARA
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32698
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",VIVA HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32697
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",CANAL BRASIL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32696
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",E! HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32695
+
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIOS",ID HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32694
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",LIFETIME HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32693
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",POLISHOP
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32692
+
+#EXTINF:-1 tvg-id="" group-title="RELIGIOSOS",REDE 21
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32691
+
+#EXTINF:-1 tvg-id="" group-title="RELIGIOSOS",REDE TV HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32690
+
+#EXTINF:-1 tvg-id="" group-title="RELIGIOSOS",REDE VIDA
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32689
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",FASHION TV BRASIL HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32688
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",FISH TV HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32687
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",FOOD NETWORK HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32686
+
+#EXTINF:-1 tvg-id="" group-title="TV ABERTA",BAND HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32685
+
+#EXTINF:-1 tvg-id="" group-title="TV ABERTA",TV ESCOLA
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32684
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",TV JUSTIÇA HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32683
+
+#EXTINF:-1 tvg-id="" group-title="RELIGIOSOS",TV NOVO TEMPO HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32682
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",TV SENADO
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/32681
