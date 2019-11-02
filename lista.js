@@ -1,7 +1,7 @@
 ﻿function lists() {
 
-	var username = "GHyHJHRTB6cbZb";
-	var password = "MAt91M1MEyd3";
+	var username = "etmAYJB2BiImJl";
+	var password = "LoUB35oYHeQ3";
 
 	var channels = [
 		{ ChannelName:"GLOBO CABUGI SD", Url:"http://188.165.221.28:25461/live/" + username + "/" + password + "/872.m3u8" },
